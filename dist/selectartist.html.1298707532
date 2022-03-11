@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>selectartist</title>
+    <link rel="stylesheet" href="/index.2cdaf7bc.css">
+    <script src="/index.975ef6c8.js" defer=""></script>
+</head>
+<body class="body">
+    <nav class="navigation-bar">
+        <a href="/index.html"><img class="logo" src="/SoundNow-logos_black.3d2c8663.png"></a>
+        <a href="/sign%20in.html">login</a>
+        <a href="/sign%20up.html">SignUp</a>
+        <a href="/mysongs.html">Mysongs</a>
+        <a href="/selectartist.html">Artist</a>
+        <a href="/addtune.html">Add tune</a>
+        <a href="/listen.html">Listen</a>
+    </nav>
+    
+</body>
+</html>

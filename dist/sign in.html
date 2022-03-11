@@ -9,7 +9,7 @@
     <script src="/index.975ef6c8.js" defer=""></script>
     <style>
     
-    * {box-sizing: border-box}
+* {box-sizing: border-box}
 
 /* style the container */
 .container-item {
@@ -17,6 +17,10 @@
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px 0 30px 0;
+}
+
+i{
+  font-family: Trebuchet MS;
 }
 
 /* style inputs and link buttons */
@@ -134,18 +138,14 @@ input[type=submit]:hover {
 </style>
 </head>
 <body class="body">
-    <!-- logo -->
-    <a href="/index.html"><img id="logo" src="/SoundNow-logos_black.3d2c8663.png"></a>
-
-    <!-- The navigation menu -->
-<div class="navbar">
-    <a href="/sign%20in.html">Login</a>
-    <a href="/sign%20up.html">Sign Up</a>
-    <a href="/mysongs.html">Mysongs</a>
+  <nav class="navigation-bar">
+    <a href="/index.html"><img class="logo" src="/SoundNow-logos_black.3d2c8663.png"></a>
+    <a href="/mysongs.html">Library</a>
     <a href="/selectartist.html">Artist</a>
-    <a href="/addtune.html">Addtune</a>
-    <a href="/listen.html">Listen</a>
-  </div>
+    <a href="/addtune.html">Upload</a>
+    <a href="/listen.html">Play</a>
+    <a href="/sign%20in.html">login/Sign Up</a>
+</nav>
     
 
     <!--sign in form-->
@@ -174,13 +174,23 @@ input[type=submit]:hover {
                 <p>Or sign in manually:</p>
               </div>
       
-              <input type="text" name="username" placeholder="Username" required="">
+              <input type="text" name="Email" placeholder="Email" required="">
               <input type="password" name="password" placeholder="Password" required="">
               <input type="submit" value="Login">
             </div>
             
           </div>
         </form>
+      </div>
+      <div class="bottom-container">
+        <div class="row">
+          <div class="col">
+            <a href="/sign%20up.html" style="color:white" class="btn">Sign up</a>
+          </div>
+          <div class="col">
+            <a href="#" style="color:white" class="btn">Forgot password?</a>
+          </div>
+        </div>
       </div>
     
     

@@ -1,11 +1,16 @@
-h1 {
-    color: white;
+h1{
+  color: white;
+  font-family: Trebuchet MS;
+}
+h2 {
+    color:whitesmoke;
     font-family: Trebuchet MS;
+    font-size: 26px;
   }
 
 
 .body{
-  background-image: url("images/Vah49R.jpg");
+  background-image: url("images/person_2.webp");
   height: 500px; /* You must set a specified height */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
@@ -89,34 +94,39 @@ button:hover {
 /* Paragraphs*/
 p{
   font-family: Trebuchet MS;
+  color: whitesmoke;
+  font-size: 26px;
 }
 
-/* NAVIGATION MENU */
-.navbar {
-  width: 100%;
-  background-color: #555;
-  overflow: auto;
+/* NAVIGATION BAR */
+.navigation-bar {
+  width: 100%;  /* i'm assuming full width */
+  height: 80px; /* change it to desired width */
+  background-color:darkcyan /* change to desired color */
 }
-
-/* Navigation links */
-.navbar a {
-  float: left;
-  padding: 12px;
+.logo {
+  display: inline-block;
+  vertical-align: top;
+  width: 90px;
+  height: 90px;
+  margin-right: 20px;
+  margin-top: 0px;    /* if you want it vertically middle of the navbar. */
+}
+.navigation-bar > a {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 20px;
+  height: 80px;        /* if you want it to take the full height of the bar */
+  line-height: 80px;    /* if you want it vertically middle of the navbar */
+  width: 14%;
   color: white;
   text-decoration: none;
   font-size: 17px;
-  width: 16.6%; 
-  text-align: center; /* If you want the text to be centered */
+  font-family: Trebuchet MS;
 }
-
 /* Add a background color on mouse-over */
-.navbar a:hover {
-  background-color: #000;
-}
-
-/* Style the current/active link */
-.navbar a.active {
-  background-color: #04AA6D;
+.navigation-bar a:hover {
+  text-decoration: underline;
 }
 
 /* Add responsiveness - on screens less than 500px, make the navigation links appear on top of each other, instead of next to each other */
@@ -129,14 +139,13 @@ p{
   }
 }
 
-/* logo */
-#logo {
-  display: inline-block;
-  margin: 15px; /* margin: 20px was off */
-  float: left;
-  height: 100px;
-  width: auto; /* correct proportions to specified height */
-  border-radius: 50%; /* makes it a circle */
+.img-with-text {
+  text-align: center;
+  width: 100%;
 }
 
+.img-with-text img {
+  display: block;
+  margin: 0 auto;
+}
 

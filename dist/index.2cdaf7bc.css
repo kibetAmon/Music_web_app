@@ -1,27 +1,22 @@
-h1 {
-    color: white;
+h1{
+  color: white;
+  font-family: Trebuchet MS;
+}
+h2 {
+    color:whitesmoke;
     font-family: Trebuchet MS;
+    font-size: 26px;
   }
-
-
 .body{
-  background-image: url("Vah49R.5acd0e09.jpg");
+  background-image: url("person_2.ea310a01.webp");
   height: 500px; /* You must set a specified height */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover;
 }
-
-
 /* SIGN UP FORM*/
-
-
 *{box-sizing: border-box}
-
-
 /* Full-width input fields */
-
-
 input[type=text], input[type=password] {
   width: 100%;
   padding: 15px;
@@ -30,23 +25,15 @@ input[type=text], input[type=password] {
   border: none;
   background: #f1f1f1;
 }
-
-
 input[type=text]:focus, input[type=password]:focus {
   background-color: #ddd;
   outline: none;
 }
-
-
 hr {
   border: 1px solid #f1f1f1;
   margin-bottom: 25px;
 }
-
-
 /* Set a style for all buttons */
-
-
 button {
   background-color: #04AA6D;
   color: white;
@@ -57,112 +44,74 @@ button {
   width: 100%;
   opacity: 0.9;
 }
-
-
 button:hover {
   opacity:1;
 }
-
-
 /* Extra styles for the cancel button */
-
-
 .cancelbtn {
   padding: 14px 20px;
   background-color: #f44336;
 }
-
-
 /* Float cancel and signup buttons and add an equal width */
-
-
 .cancelbtn, .signupbtn {
   float: left;
   width: 50%;
 }
-
-
 /* Add padding to container elements */
-
-
 .container {
   padding: 16px;
   padding-left: 25%;
   padding-right: 25%;
 }
-
-
 /* Clear floats */
-
-
 .clearfix::after {
   content: "";
   clear: both;
   display: table;
 }
-
-
 /* Change styles for cancel button and signup button on extra small screens */
-
-
 @media screen and (max-width: 300px) {
   .cancelbtn, .signupbtn {
     width: 100%;
   }
 }
-
-
 /* Paragraphs*/
-
-
 p{
   font-family: Trebuchet MS;
+  color: whitesmoke;
+  font-size: 26px;
 }
-
-
-/* NAVIGATION MENU */
-
-
-.navbar {
-  width: 100%;
-  background-color: #555;
-  overflow: auto;
+/* NAVIGATION BAR */
+.navigation-bar {
+  width: 100%;  /* i'm assuming full width */
+  height: 80px; /* change it to desired width */
+  background-color:darkcyan /* change to desired color */
 }
-
-
-/* Navigation links */
-
-
-.navbar a {
-  float: left;
-  padding: 12px;
+.logo {
+  display: inline-block;
+  vertical-align: top;
+  width: 90px;
+  height: 90px;
+  margin-right: 20px;
+  margin-top: 0px;    /* if you want it vertically middle of the navbar. */
+}
+.navigation-bar > a {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 20px;
+  height: 80px;        /* if you want it to take the full height of the bar */
+  line-height: 80px;    /* if you want it vertically middle of the navbar */
+  width: 14%;
   color: white;
   text-decoration: none;
   font-size: 17px;
-  width: 16.6%; 
-  text-align: center; /* If you want the text to be centered */
+  font-family: Trebuchet MS;
 }
-
-
 /* Add a background color on mouse-over */
-
-
-.navbar a:hover {
-  background-color: #000;
+.navigation-bar a:hover {
+  text-decoration: underline;
 }
-
-
-/* Style the current/active link */
-
-
-.navbar a.active {
-  background-color: #04AA6D;
-}
-
-
 /* Add responsiveness - on screens less than 500px, make the navigation links appear on top of each other, instead of next to each other */
-
-
 @media screen and (max-width: 500px) {
   .navbar a {
     float: none;
@@ -171,20 +120,14 @@ p{
     text-align: left; /* If you want the text to be left-aligned on small screens */
   }
 }
-
-
-/* logo */
-
-
-#logo {
-  display: inline-block;
-  margin: 15px; /* margin: 20px was off */
-  float: left;
-  height: 100px;
-  width: auto; /* correct proportions to specified height */
-  border-radius: 50%; /* makes it a circle */
+.img-with-text {
+  text-align: center;
+  width: 100%;
 }
-
+.img-with-text img {
+  display: block;
+  margin: 0 auto;
+}
 
 
 /*# sourceMappingURL=index.2cdaf7bc.css.map */
