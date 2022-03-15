@@ -149,3 +149,15 @@ p{
   margin: 0 auto;
 }
 
+/* BUTTON*/
+.button1{
+  border-radius: 25px;
+  border: 2px solid darkcyan;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-decoration: none;
+  color: whitesmoke;
+  font-size: larger;
+}
