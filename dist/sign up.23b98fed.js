@@ -570,6 +570,16 @@ const auth = _auth.getAuth();
         alert(errorMessage);
     });
 });
+/* MANAGING USERS */ const user = auth.currentUser;
+_auth.onAuthStateChanged(auth, (user1)=>{
+    if (user1) {
+        // User is signed in, see docs for a list of available properties
+        // https://firebase.google.com/docs/reference/js/firebase.User
+        const uid = user1.uid;
+    // get currently signed in user with user object--
+    // ...
+    }
+}); /* LOGGING OUT A USER */ 
 
 },{"firebase/app":"5wGMN","firebase/analytics":"gLMpj","firebase/auth":"drt1f"}],"5wGMN":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");

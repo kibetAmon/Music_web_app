@@ -5,7 +5,8 @@
  import {
       getAuth, 
       createUserWithEmailAndPassword,
-      signInWithEmailAndPassword
+      signInWithEmailAndPassword,
+      onAuthStateChanged
     } from "firebase/auth";
 
  // TODO: Add SDKs for Firebase products that you want to use
@@ -74,3 +75,23 @@
      
 
  });
+
+ /* MANAGING USERS */
+
+ const user = auth.currentUser;
+onAuthStateChanged(auth, (user) => {
+  if (user) {
+    // User is signed in, see docs for a list of available properties
+    // https://firebase.google.com/docs/reference/js/firebase.User
+    const uid = user.uid;
+    // get currently signed in user with user object--
+    // ...
+  } else {
+    // User is signed out
+    // ...
+    //Make changes after user logs in --
+  }
+});
+
+/* LOGGING OUT A USER */
+
