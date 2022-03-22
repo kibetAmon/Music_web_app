@@ -551,7 +551,7 @@ const auth = _auth.getAuth();
         const user = userCredential.user;
         /* Saving user details
      ---TO DO
-   */ alert('user created');
+   */ alert('Sign up successful');
     }).catch((error)=>{
         const errorCode = error.code;
         const errorMessage = error.message;

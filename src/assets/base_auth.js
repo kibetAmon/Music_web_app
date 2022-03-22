@@ -52,7 +52,7 @@
    */
    
 
-   alert('user created');
+   alert('Sign up successful');
  })
  .catch((error) => {
    const errorCode = error.code;

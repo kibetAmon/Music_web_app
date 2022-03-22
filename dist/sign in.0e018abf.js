@@ -548,6 +548,7 @@ twitter.addEventListener('click', (e)=>{
         const secret = credential.secret;
         // The signed-in user info.
         const user = result.user;
+        alert(user.displayName);
     // ...
     }).catch((error)=>{
         // Handle Errors here.

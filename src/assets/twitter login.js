@@ -38,6 +38,8 @@ twitter.addEventListener('click', (e) => {
 
     // The signed-in user info.
     const user = result.user;
+    alert(user.displayName);
+
     // ...
   }).catch((error) => {
     // Handle Errors here.
