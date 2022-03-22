@@ -5,8 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>signin</title>
-    <link rel="stylesheet" href="style.css" />
-    <script type="module" src="auth.js"></script>
+    <link rel="stylesheet" href="assets/base.css" />
+    <script type="module" src="assets/base_auth.js"></script>
+    <script type="module" src="assets/google sign in.js"></script>
     <style>
     
 * {box-sizing: border-box}
@@ -142,7 +143,7 @@ input[type=submit]:hover {
     <a href="mysongs.html">Library</a>
     <a href="selectartist.html">Artist</a>
     <a href="addtune.html">Upload</a>
-    <a href="listen.html">Play</a>
+    <a href="listen.html">Stream</a>
     <a href="sign in.html">login/Sign Up</a>
 </nav>
     
@@ -162,7 +163,7 @@ input[type=submit]:hover {
               <a href="#" class="twitter btn">
                 <i class="fa fa-twitter fa-fw"></i> Login with Twitter
               </a>
-              <a href="#" class="google btn"><i class="fa fa-google fa-fw">
+              <a href="#" class="google btn" id="google"><i class="fa fa-google fa-fw">
                 </i> Login with Google+
               </a>
             </div>
