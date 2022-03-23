@@ -1,4 +1,4 @@
-15615
+15652
 57C:\Users\AMON\SPRINT_3\node_modules\yargs\locales\en.json132896495463972374 0
 72C:\Users\AMON\SPRINT_3\node_modules\selenium-webdriver\net\portprober.js132896495466678189 0
 70C:\Users\AMON\SPRINT_3\node_modules\postcss-normalize-string\README.md132900345203827895 0
@@ -6,9 +6,9 @@
 87C:\Users\AMON\SPRINT_3\node_modules\core-js\features\async-iterator\as-indexed-pairs.js132896495562616252 0
 60C:\Users\AMON\SPRINT_3\node_modules\stylehacks\src\exists.js132900345083506734 0
 43C:\Users\AMON\SPRINT_3\node_modules\globals132900345240448834 1
-40C:\Users\AMON\SPRINT_3\package-lock.json132921524421777200 0
+40C:\Users\AMON\SPRINT_3\package-lock.json132924117330662632 0
 80C:\Users\AMON\SPRINT_3\node_modules\firebase\analytics\dist\app-check\index.d.ts132896495675567269 0
-44C:\Users\AMON\SPRINT_3\src\selectartist.html132921528582756968 0
+44C:\Users\AMON\SPRINT_3\src\selectartist.html132924371357543387 0
 70C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\es.array.reduce.js132896495599472624 0
 69C:\Users\AMON\SPRINT_3\node_modules\svgo\plugins\removeHiddenElems.js132900345435118628 0
 66C:\Users\AMON\SPRINT_3\node_modules\source-map-support\register.js132900345035892395 0
@@ -24,7 +24,7 @@
 50C:\Users\AMON\SPRINT_3\node_modules\domelementtype132900345073293552 1
 74C:\Users\AMON\SPRINT_3\node_modules\svgo\plugins\addClassesToSVGElement.js132900345284858529 0
 66C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\firestore\dist132896495700672482 1
-35C:\Users\AMON\SPRINT_3\package.json132900384046093876 0
+35C:\Users\AMON\SPRINT_3\package.json132924117330662632 0
 75C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\dist\app-check\index.d.ts132896495685152708 0
 58C:\Users\AMON\SPRINT_3\node_modules\jszip\.codeclimate.yml132896495473861000 0
 67C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\regions\MX.js132900345709452615 0
@@ -71,6 +71,24 @@
 103C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\rollup.shared.d.ts132896495724512301 0
 42C:\Users\AMON\SPRINT_3\node_modules\@babel132900345008637764 1
 73C:\Users\AMON\SPRINT_3\node_modules\core-js\features\instance\trim-end.js132896495570102344 0
+113C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\src\platform_cordova\popup_redirect\events.test.d.ts132896495623625378 0
+89C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\performance\index.d.ts132896495689277627 0
+82C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\database\dist\compat\analytics132896495695647169 1
+88C:\Users\AMON\SPRINT_3\node_modules\postcss-selector-parser\dist\selectors\combinator.js132900345083436929 0
+71C:\Users\AMON\SPRINT_3\node_modules\firebase\functions\dist\performance132896495727448031 1
+50C:\Users\AMON\SPRINT_3\node_modules\tmp\lib\tmp.js132896495444229465 0
+67C:\Users\AMON\SPRINT_3\node_modules\firebase\analytics\dist\storage132896495679446654 1
+75C:\Users\AMON\SPRINT_3\node_modules\@parcel\packager-css\lib\CSSPackager.js132900345215474634 0
+82C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\dist\compat\analytics\index.d.ts132896495685441915 0
+67C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\regions\HK.js132900345682937625 0
+70C:\Users\AMON\SPRINT_3\node_modules\balanced-match\.github\FUNDING.yml132896495444789328 0
+83C:\Users\AMON\SPRINT_3\node_modules\@firebase\app-check-compat\dist\src\errors.d.ts132896495506405798 0
+84C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\esm5\src\model\id_token.d.ts132896495655682399 0
+86C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\database\dist\firestore\index.d.ts132896495696155786 0
+41C:\Users\AMON\SPRINT_3\node_modules\yargs132896495468603430 1
+52C:\Users\AMON\SPRINT_3\node_modules\parcel\README.md132900345289214561 0
+73C:\Users\AMON\SPRINT_3\node_modules\@grpc\grpc-js\build\src\channelz.d.ts132896495558695357 0
+50C:\Users\AMON\SPRINT_3\src\assets\twitter login.js132924334300754388 0
 81C:\Users\AMON\SPRINT_3\node_modules\lmdb\prebuilds\linux-x64\node.abi72.musl.node132900345680714112 0
 64C:\Users\AMON\SPRINT_3\node_modules\@swc\helpers\src\_type_of.js132900345497023915 0
 78C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\glob\common.js132896495477088332 0
@@ -83,7 +101,7 @@
 85C:\Users\AMON\SPRINT_3\node_modules\terser\node_modules\source-map\dist\source-map.js132900345321989162 0
 57C:\Users\AMON\SPRINT_3\node_modules\protobufjs\src\rpc.js132896495548100407 0
 108C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\packages\firestore\src\platform\connection.d.ts132896495622904137 0
-27C:\Users\AMON\SPRINT_3\dist132923523618468567 1
+27C:\Users\AMON\SPRINT_3\dist132924370756880516 1
 85C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\firestore\dist\storage\index.d.ts132896495700692437 0
 76C:\Users\AMON\SPRINT_3\node_modules\firebase\remote-config\dist\auth\cordova132896495735292243 1
 44C:\Users\AMON\SPRINT_3\node_modules\boolbase132900345033065513 1
@@ -97,9 +115,25 @@
 116C:\Users\AMON\SPRINT_3\node_modules\@firebase\installations\dist\esm\src\helpers\buffer-to-base64-url-safe.test.d.ts132896495496861537 0
 70C:\Users\AMON\SPRINT_3\node_modules\cosmiconfig\dist\Explorer.d.ts.map132900345299782961 0
 36C:\Users\AMON\SPRINT_3\firebase.json132920852773807409 0
+61C:\Users\AMON\SPRINT_3\node_modules\yaml\browser\dist\util.js132900345428641815 0
+67C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\function\bind.js132896495652182906 0
+92C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\rn\src\platform_cordova\plugins.d.ts132896495718266447 0
+53C:\Users\AMON\SPRINT_3\node_modules\yargs\browser.mjs132896495467316490 0
+95C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\src\core\util\validate_origin.d.ts132896495754407608 0
+45C:\Users\AMON\SPRINT_3\src\assets\facebook.js132924332965101520 0
+82C:\Users\AMON\SPRINT_3\node_modules\firebase\analytics\dist\performance\index.d.ts132896495679376848 0
+62C:\Users\AMON\SPRINT_3\node_modules\entities\lib\maps\xml.json132900345292982589 0
+82C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\remote-config\dist\compat\auth132896495715300070 1
+91C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\balanced-match\package.json132896495559335957 0
+57C:\Users\AMON\SPRINT_3\node_modules\normalize-url\license132900345029142916 0
+85C:\Users\AMON\SPRINT_3\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.h132900345496894227 0
+66C:\Users\AMON\SPRINT_3\node_modules\yaml\dist\Document-9b4560a1.js132900345219999026 0
+70C:\Users\AMON\SPRINT_3\node_modules\css-tree\lib\common\SyntaxError.js132900345496097149 0
+95C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\esm2017\src\api\authentication\idp.d.ts132896495658570256 0
+96C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\eslint-visitor-keys\CHANGELOG.md132896495572007690 0
 71C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\mpeg4.js132900345708631774 0
 112C:\Users\AMON\SPRINT_3\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser\main.js132900345454239129 0
-39C:\Users\AMON\SPRINT_3\src\addtune.html132923479149722862 0
+39C:\Users\AMON\SPRINT_3\src\addtune.html132924363701617266 0
 67C:\Users\AMON\SPRINT_3\node_modules\protobufjs\src\typescript.jsdoc132896495558001673 0
 88C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\src\core\util\location.d.ts132896495693753481 0
 66C:\Users\AMON\SPRINT_3\node_modules\postcss-value-parser\README.md132900345264212448 0
@@ -107,29 +141,9 @@
 58C:\Users\AMON\SPRINT_3\node_modules\tslib\modules\index.js132896495457402106 0
 75C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\cordova\dist\index.cjs.js132896495552061106 0
 77C:\Users\AMON\SPRINT_3\node_modules\postcss-calc\src\__tests__\convertUnit.js132900345201823156 0
-35C:\Users\AMON\SPRINT_3\node_modules132900345008678159 1
+35C:\Users\AMON\SPRINT_3\node_modules132924117322443657 1
 71C:\Users\AMON\SPRINT_3\node_modules\@firebase\app\dist\app\src\api.d.ts132896495516635021 0
 52C:\Users\AMON\SPRINT_3\node_modules\lmdb\binding.gyp132900345486673685 0
-72C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\esnext.map.reduce.js132896495619063497 0
-66C:\Users\AMON\SPRINT_3\node_modules\core-js\features\array\join.js132896495560970683 0
-42C:\Users\AMON\SPRINT_3\src\assets\play.css132923521099634495 0
-68C:\Users\AMON\SPRINT_3\node_modules\core-js\features\array\concat.js132896495560291692 0
-111C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\firestore\test\integration\remote\remote.test.d.ts132896495722765723 0
-111C:\Users\AMON\SPRINT_3\node_modules\@firebase\installations\dist\src\functions\delete-installation-request.d.ts132896495517829245 0
-65C:\Users\AMON\SPRINT_3\node_modules\svgo\plugins\removeViewBox.js132900345462366960 0
-85C:\Users\AMON\SPRINT_3\node_modules\@firebase\storage-compat\dist\esm\test\utils.d.ts132896495480005177 0
-73C:\Users\AMON\SPRINT_3\node_modules\core-js\es\object\set-prototype-of.js132896495522847961 0
-56C:\Users\AMON\SPRINT_3\node_modules\y18n\build\index.cjs132896495438325793 0
-86C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\react-native\dist\storage\index.d.ts132896495688110788 0
-76C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\matchmedia.js132900345701855440 0
-77C:\Users\AMON\SPRINT_3\node_modules\postcss-normalize-whitespace\src\index.js132900345084544072 0
-59C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\wrappers132896495479835633 1
-109C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\firestore\test\unit\local\test_target_cache.d.ts132896495742516771 0
-115C:\Users\AMON\SPRINT_3\node_modules\@grpc\grpc-js\build\src\generated\grpc\channelz\v1\GetServerSocketsRequest.d.ts132896495561977985 0
-66C:\Users\AMON\SPRINT_3\node_modules\core-js\features\map\update.js132896495572626049 0
-94C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\test\util132896495741745984 1
-36C:\Users\AMON\SPRINT_3\src\style.css132923481764505064 0
-76C:\Users\AMON\SPRINT_3\node_modules\postcss-normalize-display-values\src\lib132900345200157683 1
 55C:\Users\AMON\SPRINT_3\node_modules\rimraf\CHANGELOG.md132896495445666599 0
 82C:\Users\AMON\SPRINT_3\node_modules\postcss-normalize-timing-functions\LICENSE-MIT132900345065332433 0
 118C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\firestore\test\integration\api\server_timestamp.test.d.ts132896495727507824 0
@@ -144,7 +158,7 @@
 39C:\Users\AMON\SPRINT_3\node_modules\lie132896495456160272 1
 68C:\Users\AMON\SPRINT_3\node_modules\core-js\es\string\virtual\sup.js132896495551554086 0
 92C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\storage\dist\compat\functions\index.d.ts132896495719295771 0
-26C:\Users\AMON\SPRINT_3\src132923520714858780 1
+26C:\Users\AMON\SPRINT_3\src132924368373948956 1
 71C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\dist\compat\functions132896495685721213 1
 65C:\Users\AMON\SPRINT_3\node_modules\core-js\features\array-buffer132896495560201976 1
 108C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\cordova\src\platform_browser\iframe\iframe.test.d.ts132896495662253907 0
@@ -163,13 +177,9 @@
 75C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\performance\dist\compat132896495745313910 1
 66C:\Users\AMON\SPRINT_3\node_modules\svgo\plugins\collapseGroups.js132900345324667447 0
 98C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\cordova\src\core\user\id_token_result.d.ts132896495655034215 0
-33C:\Users\AMON\SPRINT_3\src\assets132923521322970695 1
+33C:\Users\AMON\SPRINT_3\src\assets132924368373948956 1
 82C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\acorn\package.json132896495559256207 0
 87C:\Users\AMON\SPRINT_3\node_modules\firebase\app-check\dist\compat\functions\index.d.ts132896495679885469 0
-56C:\Users\AMON\SPRINT_3\node_modules\terser\lib\minify.js132900345403465154 0
-61C:\Users\AMON\SPRINT_3\node_modules\util-deprecate\History.md132896495445766326 0
-84C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\link-rel-prerender.js132900345698185300 0
-34C:\Users\AMON\SPRINT_3\src\auth.js132923308404126727 0
 57C:\Users\AMON\SPRINT_3\node_modules\ordered-binary\assets132900345238831257 1
 67C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\regions\SR.js132900345743429538 0
 77C:\Users\AMON\SPRINT_3\node_modules\firebase\firestore\lite\dist\index.esm.js132896495560351547 0
@@ -178,7 +188,6 @@
 81C:\Users\AMON\SPRINT_3\node_modules\yargs\build\lib\typings\yargs-parser-types.js132896495463344052 0
 55C:\Users\AMON\SPRINT_3\node_modules\core-js\es\weak-map132896495559326025 1
 82C:\Users\AMON\SPRINT_3\node_modules\core-js\features\array\virtual\reduce-right.js132896495562217325 0
-49C:\Users\AMON\SPRINT_3\node_modules\minimist\test132900345319010518 1
 77C:\Users\AMON\SPRINT_3\node_modules\@firebase\storage\dist\node-esm\test\node132896495546196161 1
 42C:\Users\AMON\SPRINT_3\node_modules\base-x132900345207924286 1
 70C:\Users\AMON\SPRINT_3\node_modules\firebase\firebase-analytics.js.map132896495563653211 0
@@ -186,25 +195,17 @@
 69C:\Users\AMON\SPRINT_3\node_modules\firebase\firestore\lite\dist\auth132896495724105002 1
 67C:\Users\AMON\SPRINT_3\node_modules\yargs-parser\build\lib\index.js132896495444819469 0
 61C:\Users\AMON\SPRINT_3\node_modules\lilconfig\dist\index.d.ts132900345214018266 0
-33C:\Users\AMON\SPRINT_3\src\images132918227099319739 1
+33C:\Users\AMON\SPRINT_3\src\images132924009874371728 1
 60C:\Users\AMON\SPRINT_3\node_modules\lmdb\prebuilds\linux-x64132900345727196033 1
 94C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\espree\lib\token-translator.js132896495552290849 0
 72C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\esnext.map.filter.js132896495617806501 0
-76C:\Users\AMON\SPRINT_3\node_modules\@parcel\source-map\parcel_sourcemap_wasm132900345521497539 1
-68C:\Users\AMON\SPRINT_3\node_modules\regenerator-runtime\package.json132900345211035896 0
-79C:\Users\AMON\SPRINT_3\node_modules\@firebase\storage-compat\dist\src\task.d.ts132896495479546745 0
-64C:\Users\AMON\SPRINT_3\node_modules\ordered-binary\tests\test.js132900345201224769 0
-93C:\Users\AMON\SPRINT_3\node_modules\@parcel\optimizer-image\parcel-image.linux-arm64-gnu.node132900345469777152 0
-52C:\Users\AMON\SPRINT_3\node_modules\postcss-colormin132900345215085109 1
-67C:\Users\AMON\SPRINT_3\node_modules\postcss-discard-empty\README.md132900345204016917 0
-55C:\Users\AMON\SPRINT_3\node_modules\picocolors\types.ts132900345244629148 0
-42C:\Users\AMON\SPRINT_3\node_modules\colord132900345387556590 1
 59C:\Users\AMON\SPRINT_3\node_modules\core-js\features\object132896495576298560 1
 55C:\Users\AMON\SPRINT_3\node_modules\terser\bin\uglifyjs132900345211045855 0
 57C:\Users\AMON\SPRINT_3\node_modules\postcss\lib\list.d.ts132900345393985368 0
 79C:\Users\AMON\SPRINT_3\node_modules\core-js\features\string\virtual\trim-end.js132896495585005600 0
 93C:\Users\AMON\SPRINT_3\node_modules\@firebase\app\dist\esm\app\src\platformLoggerService.d.ts132896495523735608 0
-37C:\Users\AMON\SPRINT_3\src\index.html132921528412137324 0
+37C:\Users\AMON\SPRINT_3\src\index.html132924363763728654 0
+88C:\Users\AMON\SPRINT_3\src\assets\audio\Lil Yachty - 1 Night (Official Video) - Copy.mp3132058586089247517 0
 79C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\css-variables.js132900345651631387 0
 72C:\Users\AMON\SPRINT_3\node_modules\string_decoder\lib\string_decoder.js132896495445696517 0
 68C:\Users\AMON\SPRINT_3\node_modules\yargs\lib\platform-shims\esm.mjs132896495468287113 0
@@ -221,17 +222,7 @@
 54C:\Users\AMON\SPRINT_3\node_modules\yaml\dist\index.js132900345276996244 0
 86C:\Users\AMON\SPRINT_3\node_modules\@firebase\logger\dist\test\custom-logger.test.d.ts132896495469599531 0
 61C:\Users\AMON\SPRINT_3\node_modules\yaml\browser\parse-cst.js132900345360104855 0
-38C:\Users\AMON\SPRINT_3\src\listen.html132923524236019759 0
-72C:\Users\AMON\SPRINT_3\node_modules\@parcel\package-manager\package.json132900345395614091 0
-93C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\performance\dist\remote-config\index.d.ts132896495714576896 0
-93C:\Users\AMON\SPRINT_3\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest6.c132900345481293545 0
-50C:\Users\AMON\SPRINT_3\node_modules\tslib\tslib.js132896495458509156 0
-70C:\Users\AMON\SPRINT_3\node_modules\core-js\es\string\code-point-at.js132896495533488302 0
-51C:\Users\AMON\SPRINT_3\node_modules\yaml\types.d.ts132900345462606311 0
-87C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\src\core\credentials\phone.d.ts132896495714486602 0
-74C:\Users\AMON\SPRINT_3\node_modules\core-js\es\string\virtual\match-all.js132896495551059667 0
-83C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\src\api132896495751086798 1
-46C:\Users\AMON\SPRINT_3\node_modules\color-name132896495441758494 1
+38C:\Users\AMON\SPRINT_3\src\listen.html132924363791732212 0
 88C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\remote-config\dist\auth\react-native132896495714885915 1
 61C:\Users\AMON\SPRINT_3\node_modules\firebase\app\dist\storage132896495681492986 1
 63C:\Users\AMON\SPRINT_3\node_modules\terser\lib\equivalent-to.js132900345377425683 0
@@ -241,7 +232,7 @@
 53C:\Users\AMON\SPRINT_3\node_modules\js-tokens\LICENSE132900345083836403 0
 61C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\index.d.ts132896495576697507 0
 81C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\es.reflect.define-property.js132896495601752451 0
-39C:\Users\AMON\SPRINT_3\src\mysongs.html132923514269641474 0
+39C:\Users\AMON\SPRINT_3\src\mysongs.html132924369159881151 0
 84C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\app\dist\messaging\sw\index.d.ts132896495693733541 0
 66C:\Users\AMON\SPRINT_3\node_modules\core-js\web\queue-microtask.js132896495677668627 0
 69C:\Users\AMON\SPRINT_3\node_modules\source-map\dist\source-map.min.js132900345363422645 0
@@ -273,9 +264,14 @@
 62C:\Users\AMON\SPRINT_3\node_modules\protobufjs\src\verifier.js132896495557503400 0
 73C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\app\dist\index.cjs.js132896495552450507 0
 46C:\Users\AMON\SPRINT_3\node_modules\ansi-regex132896495443830167 1
+78C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\app\dist\compat\index.d.ts132896495693225063 0
+53C:\Users\AMON\SPRINT_3\node_modules\parcel\src\bin.js132900345231886489 0
+101C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\src\util\byte_stream.d.ts132896495611292529 0
+39C:\Users\AMON\SPRINT_3\src\assets\audio132924142325068884 1
+86C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\prelude-ls\lib\Func.js132896495491263737 0
 68C:\Users\AMON\SPRINT_3\node_modules\core-js\es\number\parse-float.js132896495505608175 0
 51C:\Users\AMON\SPRINT_3\node_modules\globals\license132900345080429893 0
-39C:\Users\AMON\SPRINT_3\src\sign in.html132923317861059804 0
+39C:\Users\AMON\SPRINT_3\src\sign in.html132924363909829386 0
 80C:\Users\AMON\SPRINT_3\node_modules\core-js\features\reflect\get-prototype-of.js132896495577295890 0
 71C:\Users\AMON\SPRINT_3\node_modules\postcss-selector-parser\LICENSE-MIT132900345030240005 0
 76C:\Users\AMON\SPRINT_3\node_modules\websocket-driver\lib\websocket\driver.js132896495446574175 0
@@ -301,14 +297,29 @@
 59C:\Users\AMON\SPRINT_3\node_modules\terser\lib\transform.js132900345460300969 0
 57C:\Users\AMON\SPRINT_3\node_modules\@types\node\repl.d.ts132896495468477413 0
 81C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\esprima\ChangeLog132896495457023117 0
-39C:\Users\AMON\SPRINT_3\src\sign up.html132923478610477144 0
+39C:\Users\AMON\SPRINT_3\src\sign up.html132924363944351871 0
 46C:\Users\AMON\SPRINT_3\node_modules\parcel\src132900345269778657 1
+110C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node-esm\src\core\strategies\action_code_settings.d.ts132896495565314850 0
+122C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\test\unit\specs\listen_spec.test.d.ts132896495689477098 0
+52C:\Users\AMON\SPRINT_3\node_modules\msgpackr-extract132900345486376478 1
+66C:\Users\AMON\SPRINT_3\node_modules\core-js\es\regexp\to-string.js132896495531748016 0
+90C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\app-check\dist\messaging\sw\index.d.ts132896495691266221 0
+45C:\Users\AMON\SPRINT_3\src\assets\mysongs.css132924176065218516 0
 90C:\Users\AMON\SPRINT_3\node_modules\readable-stream\lib\internal\streams\stream-browser.js132896495460651276 0
 110C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore-compat\dist\node-esm\test\util\events_accumulator.d.ts132896495518050390 0
 56C:\Users\AMON\SPRINT_3\node_modules\weak-lru-cache\tests132900345204666117 1
 83C:\Users\AMON\SPRINT_3\node_modules\@firebase\database\dist\src\core\util\util.d.ts132896495577126320 0
 68C:\Users\AMON\SPRINT_3\node_modules\core-js\internals\classof-raw.js132896495590471913 0
 47C:\Users\AMON\SPRINT_3\src\images\logo_info.txt132912084720000000 0
+75C:\Users\AMON\SPRINT_3\node_modules\firebase\messaging\dist\compat\database132896495729519454 1
+41C:\Users\AMON\SPRINT_3\node_modules\cliui132896495448984039 1
+75C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\dist\messaging\index.d.ts132896495686259733 0
+116C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\packages\firestore\test\unit\specs\write_spec.test.d.ts132896495751516563 0
+63C:\Users\AMON\SPRINT_3\node_modules\protobufjs\dist\protobuf.js132896495545390657 0
+98C:\Users\AMON\SPRINT_3\node_modules\@firebase\database\dist\node-esm\src\core\util\NextPushId.d.ts132896495563826134 0
+68C:\Users\AMON\SPRINT_3\node_modules\yaml\dist\resolveSeq-d03cb037.js132900345380228555 0
+44C:\Users\AMON\SPRINT_3\src\images\music.jfif132910781375235101 0
+75C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\esnext.iterator.some.js132896495616666141 0
 42C:\Users\AMON\SPRINT_3\src\images\muu.jfif132910781820343117 0
 65C:\Users\AMON\SPRINT_3\node_modules\core-js\es\promise\finally.js132896495523865243 0
 68C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\package.json132896495529814811 0
@@ -316,9 +327,6 @@
 83C:\Users\AMON\SPRINT_3\node_modules\firebase\database\dist\remote-config\index.d.ts132896495721771245 0
 53C:\Users\AMON\SPRINT_3\src\images\SoundNow-logos.jpeg132912084720000000 0
 94C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\messaging\dist\compat\messaging\index.d.ts132896495712752078 0
-46C:\Users\AMON\SPRINT_3\node_modules\concat-map132896495445756353 1
-72C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\esnext.math.clamp.js132896495619223053 0
-49C:\Users\AMON\SPRINT_3\node_modules\yargs\LICENSE132896495438654513 0
 66C:\Users\AMON\SPRINT_3\node_modules\firebase\firebase-functions.js132896495534795914 0
 76C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore-compat\dist\src\util132896495525128384 1
 79C:\Users\AMON\SPRINT_3\node_modules\core-js\features\number\virtual\to-fixed.js132896495574162601 0
@@ -354,15 +362,6 @@
 94C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth-compat\dist\esm\auth-compat\index.node.d.ts132896495525903752 0
 44C:\Users\AMON\SPRINT_3\src\images\Vah49R.jpg132910785201761261 0
 67C:\Users\AMON\SPRINT_3\node_modules\css-tree\lib\syntax\node\Raw.js132900345486254782 0
-121C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\test\unit\local\persistence_promise.test.d.ts132896495711608813 0
-62C:\Users\AMON\SPRINT_3\node_modules\v8-compile-cache\README.md132900345253956337 0
-77C:\Users\AMON\SPRINT_3\node_modules\lmdb\prebuilds\win32-x64\node.abi102.node132900345668869545 0
-58C:\Users\AMON\SPRINT_3\node_modules\source-map\lib\util.js132900345294353561 0
-79C:\Users\AMON\SPRINT_3\node_modules\websocket-extensions\lib\pipeline\README.md132896495457631503 0
-66C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\array\concat.js132896495645858344 0
-41C:\Users\AMON\SPRINT_3\src\assets\play.js132923521322970695 0
-99C:\Users\AMON\SPRINT_3\node_modules\@grpc\grpc-js\build\src\generated\grpc\channelz\v1\Address.d.ts132896495545101027 0
-83C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\word-wrap\README.md132896495574619493 0
 89C:\Users\AMON\SPRINT_3\node_modules\@firebase\functions-compat\dist\src\service.test.d.ts132896495496622177 0
 54C:\Users\AMON\SPRINT_3\node_modules\chrome-trace-event132900345251224183 1
 76C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\esnext.map.map-values.js132896495618953810 0
@@ -372,6 +371,51 @@
 70C:\Users\AMON\SPRINT_3\node_modules\lmdb\dependencies\lz4\lib\xxhash.h132900345498669483 0
 77C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\esm2017\index.rn.d.ts132896495685511731 0
 40C:\Users\AMON\SPRINT_3\node_modules\.bin132900345772317064 1
+89C:\Users\AMON\SPRINT_3\node_modules\@firebase\functions-compat\dist\node-esm\package.json132896495485025479 0
+77C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\wbr-element.js132900345761954264 0
+119C:\Users\AMON\SPRINT_3\node_modules\@firebase\database-compat\dist\node-esm\database-compat\test\servervalues.test.d.ts132896495534643731 0
+61C:\Users\AMON\SPRINT_3\node_modules\jszip\lib\compressions.js132896495449033921 0
+112C:\Users\AMON\SPRINT_3\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-exclude132900345484409721 1
+65C:\Users\AMON\SPRINT_3\node_modules\@parcel\transformer-image\lib132900345265959634 1
+75C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\es.reflect.construct.js132896495601722505 0
+55C:\Users\AMON\SPRINT_3\node_modules\minimatch\README.md132896495445696517 0
+76C:\Users\AMON\SPRINT_3\node_modules\postcss-selector-parser\dist\tokenize.js132900345364531643 0
+79C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\database\dist\remote-config132896495696400588 1
+42C:\Users\AMON\SPRINT_3\src\assets\base.css132924361224627695 0
+76C:\Users\AMON\SPRINT_3\node_modules\firebase\app\dist\compat\auth\index.d.ts132896495680832946 0
+74C:\Users\AMON\SPRINT_3\node_modules\@firebase\messaging\dist\src\internals132896495550914864 1
+42C:\Users\AMON\SPRINT_3\node_modules\wrappy132896495444189198 1
+91C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\messaging\dist\remote-config\index.d.ts132896495713334121 0
+42C:\Users\AMON\SPRINT_3\node_modules\terser132900345463803127 1
+74C:\Users\AMON\SPRINT_3\node_modules\cosmiconfig\dist\cacheWrapper.d.ts.map132900345290550816 0
+76C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\array\virtual\flat-map.js132896495646963035 0
+80C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\database\dist\app\index.d.ts132896495695497955 0
+45C:\Users\AMON\SPRINT_3\node_modules\minimatch132896495445347837 1
+67C:\Users\AMON\SPRINT_3\node_modules\source-map-support\package.json132900345084184902 0
+72C:\Users\AMON\SPRINT_3\node_modules\css-tree\lib\lexer\generic-urange.js132900345445550914 0
+64C:\Users\AMON\SPRINT_3\node_modules\selenium-webdriver\chrome.js132896495459057684 0
+46C:\Users\AMON\SPRINT_3\src\assets\base_auth.js132924332114546232 0
+58C:\Users\AMON\SPRINT_3\node_modules\commander\package.json132900345253258764 0
+51C:\Users\AMON\SPRINT_3\src\assets\google sign in.js132924335963823575 0
+68C:\Users\AMON\SPRINT_3\node_modules\@protobufjs\codegen\package.json132896495441916571 0
+83C:\Users\AMON\SPRINT_3\node_modules\@firebase\component\dist\esm\src\component.d.ts132896495463603365 0
+77C:\Users\AMON\SPRINT_3\node_modules\@firebase\database\dist\index.node.cjs.js132896495516934242 0
+52C:\Users\AMON\SPRINT_3\node_modules\jszip\index.d.ts132896495473591816 0
+74C:\Users\AMON\SPRINT_3\node_modules\selenium-webdriver\example\headless.js132896495463942450 0
+54C:\Users\AMON\SPRINT_3\node_modules\css-tree\lib\lexer132900345497013977 1
+41C:\Users\AMON\SPRINT_3\node_modules\clone132900345235307266 1
+119C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\packages\firestore\src\local\indexeddb_mutation_queue.d.ts132896495685771078 0
+48C:\Users\AMON\SPRINT_3\node_modules\mdn-data\css132900345365738411 1
+48C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite132900345768446867 1
+77C:\Users\AMON\SPRINT_3\node_modules\core-js\features\function\has-instance.js132896495565205134 0
+113C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\src\remote\remote_store.d.ts132896495722557884 0
+76C:\Users\AMON\SPRINT_3\node_modules\firebase\functions\dist\compat\firestore132896495726650138 1
+60C:\Users\AMON\SPRINT_3\node_modules\supports-color\readme.md132900345214987892 0
+77C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\storage\dist\index.cjs.js132896495557453143 0
+85C:\Users\AMON\SPRINT_3\node_modules\firebase\firestore\lite\dist\analytics\index.d.ts132896495723945439 0
+73C:\Users\AMON\SPRINT_3\node_modules\postcss-discard-comments\package.json132900345221215795 0
+63C:\Users\AMON\SPRINT_3\node_modules\css-what\lib\parse.d.ts.map132900345203937124 0
+65C:\Users\AMON\SPRINT_3\node_modules\y18n\build\lib\platform-shims132896495444709550 1
 64C:\Users\AMON\SPRINT_3\node_modules\svgo\plugins\minifyStyles.js132900345379031551 0
 111C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\packages\firestore\test\unit\util\bundle_data.d.ts132896495601533041 0
 64C:\Users\AMON\SPRINT_3\node_modules\firebase\storage\dist\compat132896495747862191 1
@@ -379,7 +423,7 @@
 114C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\src\platform\browser\random_bytes.d.ts132896495716645409 0
 113C:\Users\AMON\SPRINT_3\node_modules\@grpc\grpc-js\build\src\generated\grpc\channelz\v1\GetSubchannelResponse.d.ts132896495563035551 0
 61C:\Users\AMON\SPRINT_3\node_modules\@parcel\watcher\README.md132900345380856491 0
-54C:\Users\AMON\SPRINT_3\node_modules\.package-lock.json132921524421996622 0
+54C:\Users\AMON\SPRINT_3\node_modules\.package-lock.json132924117331272069 0
 40C:\Users\AMON\SPRINT_3\node_modules\@swc132900345008518202 1
 68C:\Users\AMON\SPRINT_3\node_modules\core-js\internals\an-instance.js132896495586502378 0
 45C:\Users\AMON\SPRINT_3\node_modules\@firebase132896495413425401 1
@@ -485,31 +529,29 @@
 74C:\Users\AMON\SPRINT_3\node_modules\firebase\storage\dist\compat\firestore132896495740240656 1
 45C:\Users\AMON\SPRINT_3\dist\index.aebfdc41.js132918953206238161 0
 45C:\Users\AMON\SPRINT_3\node_modules\yaml\dist132900345442957812 1
-83C:\Users\AMON\SPRINT_3\node_modules\@firebase\component\dist\esm\src\component.d.ts132896495463603365 0
-77C:\Users\AMON\SPRINT_3\node_modules\@firebase\database\dist\index.node.cjs.js132896495516934242 0
-52C:\Users\AMON\SPRINT_3\node_modules\jszip\index.d.ts132896495473591816 0
-74C:\Users\AMON\SPRINT_3\node_modules\selenium-webdriver\example\headless.js132896495463942450 0
-54C:\Users\AMON\SPRINT_3\node_modules\css-tree\lib\lexer132900345497013977 1
-41C:\Users\AMON\SPRINT_3\node_modules\clone132900345235307266 1
-119C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\packages\firestore\src\local\indexeddb_mutation_queue.d.ts132896495685771078 0
-48C:\Users\AMON\SPRINT_3\node_modules\mdn-data\css132900345365738411 1
-48C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite132900345768446867 1
-77C:\Users\AMON\SPRINT_3\node_modules\core-js\features\function\has-instance.js132896495565205134 0
-113C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\src\remote\remote_store.d.ts132896495722557884 0
-76C:\Users\AMON\SPRINT_3\node_modules\firebase\functions\dist\compat\firestore132896495726650138 1
-60C:\Users\AMON\SPRINT_3\node_modules\supports-color\readme.md132900345214987892 0
-77C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\storage\dist\index.cjs.js132896495557453143 0
-85C:\Users\AMON\SPRINT_3\node_modules\firebase\firestore\lite\dist\analytics\index.d.ts132896495723945439 0
-73C:\Users\AMON\SPRINT_3\node_modules\postcss-discard-comments\package.json132900345221215795 0
-63C:\Users\AMON\SPRINT_3\node_modules\css-what\lib\parse.d.ts.map132900345203937124 0
-65C:\Users\AMON\SPRINT_3\node_modules\y18n\build\lib\platform-shims132896495444709550 1
-75C:\Users\AMON\SPRINT_3\node_modules\firebase\messaging\dist\compat\database132896495729519454 1
-41C:\Users\AMON\SPRINT_3\node_modules\cliui132896495448984039 1
-75C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\dist\messaging\index.d.ts132896495686259733 0
-116C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\packages\firestore\test\unit\specs\write_spec.test.d.ts132896495751516563 0
-63C:\Users\AMON\SPRINT_3\node_modules\protobufjs\dist\protobuf.js132896495545390657 0
-98C:\Users\AMON\SPRINT_3\node_modules\@firebase\database\dist\node-esm\src\core\util\NextPushId.d.ts132896495563826134 0
-68C:\Users\AMON\SPRINT_3\node_modules\yaml\dist\resolveSeq-d03cb037.js132900345380228555 0
+72C:\Users\AMON\SPRINT_3\node_modules\@parcel\package-manager\package.json132900345395614091 0
+93C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\performance\dist\remote-config\index.d.ts132896495714576896 0
+93C:\Users\AMON\SPRINT_3\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest6.c132900345481293545 0
+50C:\Users\AMON\SPRINT_3\node_modules\tslib\tslib.js132896495458509156 0
+70C:\Users\AMON\SPRINT_3\node_modules\core-js\es\string\code-point-at.js132896495533488302 0
+51C:\Users\AMON\SPRINT_3\node_modules\yaml\types.d.ts132900345462606311 0
+87C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\src\core\credentials\phone.d.ts132896495714486602 0
+74C:\Users\AMON\SPRINT_3\node_modules\core-js\es\string\virtual\match-all.js132896495551059667 0
+83C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\src\api132896495751086798 1
+46C:\Users\AMON\SPRINT_3\node_modules\color-name132896495441758494 1
+76C:\Users\AMON\SPRINT_3\node_modules\@parcel\source-map\parcel_sourcemap_wasm132900345521497539 1
+68C:\Users\AMON\SPRINT_3\node_modules\regenerator-runtime\package.json132900345211035896 0
+79C:\Users\AMON\SPRINT_3\node_modules\@firebase\storage-compat\dist\src\task.d.ts132896495479546745 0
+64C:\Users\AMON\SPRINT_3\node_modules\ordered-binary\tests\test.js132900345201224769 0
+93C:\Users\AMON\SPRINT_3\node_modules\@parcel\optimizer-image\parcel-image.linux-arm64-gnu.node132900345469777152 0
+52C:\Users\AMON\SPRINT_3\node_modules\postcss-colormin132900345215085109 1
+67C:\Users\AMON\SPRINT_3\node_modules\postcss-discard-empty\README.md132900345204016917 0
+55C:\Users\AMON\SPRINT_3\node_modules\picocolors\types.ts132900345244629148 0
+42C:\Users\AMON\SPRINT_3\node_modules\colord132900345387556590 1
+46C:\Users\AMON\SPRINT_3\node_modules\concat-map132896495445756353 1
+72C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\esnext.math.clamp.js132896495619223053 0
+49C:\Users\AMON\SPRINT_3\node_modules\yargs\LICENSE132896495438654513 0
+75C:\Users\AMON\SPRINT_3\node_modules\utility-types\dist\utility-types.js.map132900345292972612 0
 49C:\Users\AMON\SPRINT_3\node_modules\firebase\auth132896495560960685 1
 48C:\Users\AMON\SPRINT_3\node_modules\y18n\LICENSE132896495424007396 0
 92C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\src\core\util\instantiator.test.d.ts132896495688775512 0
@@ -523,7 +565,6 @@
 43C:\Users\AMON\SPRINT_3\node_modules\core-js132896495677568899 1
 60C:\Users\AMON\SPRINT_3\node_modules\picocolors\picocolors.js132900345200416941 0
 60C:\Users\AMON\SPRINT_3\node_modules\@swc\helpers\src\_jsx.js132900345486284711 0
-75C:\Users\AMON\SPRINT_3\node_modules\utility-types\dist\utility-types.js.map132900345292972612 0
 94C:\Users\AMON\SPRINT_3\node_modules\msgpackr-extract\prebuilds\linux-x64\node.abi102.musl.node132900345361371678 0
 64C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\math\clz32.js132896495654445733 0
 49C:\Users\AMON\SPRINT_3\node_modules\@parcel\cache132900345319199947 1
@@ -539,9 +580,6 @@
 111C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node-esm\test\helpers\mock_popup_redirect_resolver.d.ts132896495704578708 0
 109C:\Users\AMON\SPRINT_3\node_modules\@parcel\transformer-react-refresh-wrap\lib\ReactRefreshWrapTransformer.js132900345260131991 0
 58C:\Users\AMON\SPRINT_3\node_modules\css-declaration-sorter132900345251542893 1
-97C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\esm2017\src\core\strategies\idp.test.d.ts132896495659617487 0
-87C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\compat\remote-config132896495688908617 1
-89C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\registerprotocolhandler.js132900345736121094 0
 99C:\Users\AMON\SPRINT_3\node_modules\@grpc\grpc-js\build\src\generated\grpc\channelz\v1\SocketRef.js132896495480374186 0
 84C:\Users\AMON\SPRINT_3\node_modules\websocket-driver\lib\websocket\driver\draft75.js132896495444639732 0
 100C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\src\api\credentials.d.ts132896495623854999 0
@@ -726,6 +764,14 @@
 44C:\Users\AMON\SPRINT_3\node_modules\get-port132900345249430670 1
 67C:\Users\AMON\SPRINT_3\node_modules\@types\node\worker_threads.d.ts132896495475335382 0
 72C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\array\virtual\fill.js132896495646863295 0
+82C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\type-check\LICENSE132896495465990032 0
+119C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\src\lite-api\user_data_reader.d.ts132896495748191549 0
+79C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\vector-effect.js132900345759002141 0
+102C:\Users\AMON\SPRINT_3\node_modules\@firebase\performance\dist\esm\src\services\transport_service.d.ts132896495522967661 0
+67C:\Users\AMON\SPRINT_3\node_modules\readable-stream\CONTRIBUTING.md132896495462456461 0
+72C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\date\to-iso-string.js132896495651821985 0
+59C:\Users\AMON\SPRINT_3\node_modules\colord\plugins\mix.d.ts132900345380517399 0
+60C:\Users\AMON\SPRINT_3\node_modules\protobufjs\src\reader.js132896495547609752 0
 68C:\Users\AMON\SPRINT_3\node_modules\core-js\internals\descriptors.js132896495591016959 0
 67C:\Users\AMON\SPRINT_3\node_modules\core-js\internals\same-value.js132896495596935683 0
 100C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node-esm\src\core\providers\google.test.d.ts132896495652123032 0
@@ -734,14 +780,6 @@
 92C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\esm5\src\api\authentication\mfa.d.ts132896495698303134 0
 78C:\Users\AMON\SPRINT_3\node_modules\@parcel\packager-js\lib\ESMOutputFormat.js132900345290102605 0
 40C:\Users\AMON\SPRINT_3\node_modules\glob132896495446006084 1
-60C:\Users\AMON\SPRINT_3\node_modules\protobufjs\src\reader.js132896495547609752 0
-82C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\type-check\LICENSE132896495465990032 0
-119C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\src\lite-api\user_data_reader.d.ts132896495748191549 0
-79C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\vector-effect.js132900345759002141 0
-102C:\Users\AMON\SPRINT_3\node_modules\@firebase\performance\dist\esm\src\services\transport_service.d.ts132896495522967661 0
-67C:\Users\AMON\SPRINT_3\node_modules\readable-stream\CONTRIBUTING.md132896495462456461 0
-72C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\date\to-iso-string.js132896495651821985 0
-59C:\Users\AMON\SPRINT_3\node_modules\colord\plugins\mix.d.ts132900345380517399 0
 54C:\Users\AMON\SPRINT_3\node_modules\jszip\lib\utils.js132896495469988463 0
 67C:\Users\AMON\SPRINT_3\node_modules\selenium-webdriver\lib\until.js132896495468959856 0
 44C:\Users\AMON\SPRINT_3\node_modules\has-flag132900345041866397 1
@@ -772,6 +810,12 @@
 81C:\Users\AMON\SPRINT_3\node_modules\htmlnano\lib\modules\removeAttributeQuotes.js132900345360862782 0
 39C:\Users\AMON\SPRINT_3\node_modules\idb132896495457691351 1
 90C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\functions\dist\auth\cordova\index.d.ts132896495700842037 0
+85C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\messaging\dist\compat\performance132896495712778122 1
+67C:\Users\AMON\SPRINT_3\node_modules\protobufjs\src\util\longbits.js132896495520791256 0
+56C:\Users\AMON\SPRINT_3\node_modules\safe-buffer\index.js132896495444139368 0
+43C:\Users\AMON\SPRINT_3\node_modules\process132924117329093946 1
+100C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\firestore\src\lite-api\field_value.d.ts132896495659039002 0
+58C:\Users\AMON\SPRINT_3\node_modules\timsort\src\timsort.js132900345259305525 0
 45C:\Users\AMON\SPRINT_3\node_modules\immediate132896495446065530 1
 54C:\Users\AMON\SPRINT_3\node_modules\utility-types\dist132900345353714068 1
 64C:\Users\AMON\SPRINT_3\node_modules\type-fest\source\except.d.ts132900345307998487 0
@@ -936,21 +980,15 @@
 63C:\Users\AMON\SPRINT_3\node_modules\css-tree\lib\utils\clone.js132900345299772990 0
 44C:\Users\AMON\SPRINT_3\node_modules\mdn-data132900345367124700 1
 56C:\Users\AMON\SPRINT_3\node_modules\websocket-extensions132896495458170060 1
-80C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\database\dist\app\index.d.ts132896495695497955 0
-45C:\Users\AMON\SPRINT_3\node_modules\minimatch132896495445347837 1
-67C:\Users\AMON\SPRINT_3\node_modules\source-map-support\package.json132900345084184902 0
-72C:\Users\AMON\SPRINT_3\node_modules\css-tree\lib\lexer\generic-urange.js132900345445550914 0
 56C:\Users\AMON\SPRINT_3\node_modules\json5\lib\parse.d.ts132900345355994342 0
 44C:\Users\AMON\SPRINT_3\node_modules\minimist132900345325126219 1
 55C:\Users\AMON\SPRINT_3\node_modules\semver\package.json132900345228616943 0
 67C:\Users\AMON\SPRINT_3\node_modules\@parcel\utils\src\DefaultMap.js132900345321929248 0
 62C:\Users\AMON\SPRINT_3\node_modules\mdn-data\css\syntaxes.json132900345358020415 0
+51C:\Users\AMON\SPRINT_3\dist\sign in.0e018abf.js.map132924370154461870 0
 48C:\Users\AMON\SPRINT_3\node_modules\@swc\helpers132900345464102313 1
 118C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\esm2017\test\integration\webdriver\compat\firebaseui.test.d.ts132896495633180271 0
 44C:\Users\AMON\SPRINT_3\node_modules\msgpackr132900345361442037 1
-110C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node-esm\src\core\strategies\action_code_settings.d.ts132896495565314850 0
-122C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\test\unit\specs\listen_spec.test.d.ts132896495689477098 0
-52C:\Users\AMON\SPRINT_3\node_modules\msgpackr-extract132900345486376478 1
 79C:\Users\AMON\SPRINT_3\node_modules\@firebase\util\dist\test\deepCopy.test.d.ts132896495479252011 0
 54C:\Users\AMON\SPRINT_3\node_modules\nullthrows\LICENSE132900345092162876 0
 97C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\esm5\src\core\credentials\email.test.d.ts132896495602789680 0
@@ -966,8 +1004,6 @@
 67C:\Users\AMON\SPRINT_3\node_modules\utility-types\dist\index.js.map132900345277504847 0
 88C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\path-is-absolute\license132896495464992710 0
 42C:\Users\AMON\SPRINT_3\node_modules\nanoid132900345345976677 1
-95C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\packages\firestore\test\unit\local132896495750621952 1
-56C:\Users\AMON\SPRINT_3\node_modules\@parcel\packager-css132900345246860095 1
 82C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\esutils\lib\ast.js132896495471095544 0
 50C:\Users\AMON\SPRINT_3\node_modules\node-addon-api132900345356908650 1
 67C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\regions\MR.js132900345708773370 0
@@ -997,7 +1033,7 @@
 65C:\Users\AMON\SPRINT_3\node_modules\type-fest\source\entries.d.ts132900345294433372 0
 56C:\Users\AMON\SPRINT_3\node_modules\core-js\es\data-view132896495468623427 1
 82C:\Users\AMON\SPRINT_3\node_modules\protobufjs\google\protobuf\source_context.json132896495561658828 0
-40C:\Users\AMON\SPRINT_3\dist\mysongs.html132923514296216690 0
+40C:\Users\AMON\SPRINT_3\dist\mysongs.html132924370185009691 0
 54C:\Users\AMON\SPRINT_3\node_modules\js-tokens\index.js132900345059504513 0
 98C:\Users\AMON\SPRINT_3\node_modules\@grpc\grpc-js\build\src\generated\google\protobuf\BoolValue.js132896495461698465 0
 49C:\Users\AMON\SPRINT_3\node_modules\normalize-url132900345079871382 1
@@ -1135,8 +1171,6 @@
 57C:\Users\AMON\SPRINT_3\node_modules\postcss-minify-params132900345202681197 1
 60C:\Users\AMON\SPRINT_3\node_modules\protobufjs\src\common.js132896495477336805 0
 61C:\Users\AMON\SPRINT_3\node_modules\postcss-normalize-charset132900345202604037 1
-84C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\src\util132896495745763094 1
-61C:\Users\AMON\SPRINT_3\node_modules\minimist\test\all_bool.js132900345039104177 0
 63C:\Users\AMON\SPRINT_3\node_modules\@parcel\transformer-css\lib132900345212561917 1
 78C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\messaging\dist\performance132896495713260013 1
 68C:\Users\AMON\SPRINT_3\node_modules\postcss-normalize-display-values132900345219011715 1
@@ -1285,6 +1319,7 @@
 70C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\src\model132896495753696851 1
 76C:\Users\AMON\SPRINT_3\node_modules\firebase\firestore\dist\compat\analytics132896495722118399 1
 83C:\Users\AMON\SPRINT_3\node_modules\firebase\messaging\dist\auth\cordova\index.d.ts132896495729080756 0
+54C:\Users\AMON\SPRINT_3\node_modules\process\browser.js132924117327739823 0
 54C:\Users\AMON\SPRINT_3\node_modules\set-immediate-shim132896495441876654 1
 96C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\remote-config\dist\compat\storage\index.d.ts132896495716904734 0
 59C:\Users\AMON\SPRINT_3\node_modules\y18n\build\lib\index.js132896495443800246 0
@@ -1304,7 +1339,6 @@
 96C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore-compat\dist\node-esm\test\type.test.d.ts132896495533258437 0
 85C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\esnext.async-iterator.for-each.js132896495614100003 0
 49C:\Users\AMON\SPRINT_3\node_modules\source-map-js132900345301857819 1
-60C:\Users\AMON\SPRINT_3\node_modules\protobufjs\src\object.js132896495525178254 0
 84C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\src\model\id_token.d.ts132896495655772160 0
 119C:\Users\AMON\SPRINT_3\node_modules\@firebase\database-compat\dist\node-esm\database-compat\test\datasnapshot.test.d.ts132896495525943642 0
 76C:\Users\AMON\SPRINT_3\node_modules\css-tree\lib\syntax\node\SelectorList.js132900345486713569 0
@@ -1323,13 +1357,6 @@
 61C:\Users\AMON\SPRINT_3\node_modules\posthtml-parser\readme.md132900345254126208 0
 116C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\firestore\test\integration\util\events_accumulator.d.ts132896495654445733 0
 50C:\Users\AMON\SPRINT_3\node_modules\supports-color132900345211395177 1
-76C:\Users\AMON\SPRINT_3\node_modules\firebase\app\dist\compat\auth\index.d.ts132896495680832946 0
-74C:\Users\AMON\SPRINT_3\node_modules\@firebase\messaging\dist\src\internals132896495550914864 1
-42C:\Users\AMON\SPRINT_3\node_modules\wrappy132896495444189198 1
-91C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\messaging\dist\remote-config\index.d.ts132896495713334121 0
-42C:\Users\AMON\SPRINT_3\node_modules\terser132900345463803127 1
-74C:\Users\AMON\SPRINT_3\node_modules\cosmiconfig\dist\cacheWrapper.d.ts.map132900345290550816 0
-76C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\array\virtual\flat-map.js132896495646963035 0
 57C:\Users\AMON\SPRINT_3\node_modules\svgo\lib\css-tools.js132900345370793662 0
 68C:\Users\AMON\SPRINT_3\node_modules\firebase\messaging\dist\database132896495729968251 1
 67C:\Users\AMON\SPRINT_3\node_modules\source-map-js\lib\quick-sort.js132900345204046876 0
@@ -1375,6 +1402,11 @@
 70C:\Users\AMON\SPRINT_3\node_modules\css-select\lib\attributes.d.ts.map132900345294613253 0
 81C:\Users\AMON\SPRINT_3\node_modules\@firebase\database\dist\node-esm\test\helpers132896495576986853 1
 72C:\Users\AMON\SPRINT_3\node_modules\firebase\messaging\sw\dist\messaging132896495732402798 1
+95C:\Users\AMON\SPRINT_3\node_modules\firebase\remote-config\dist\compat\remote-config\index.d.ts132896495736921857 0
+83C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\loading-lazy-attr.js132900345699591517 0
+53C:\Users\AMON\SPRINT_3\node_modules\process\README.md132924117327208163 0
+77C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\react-native\dist\app-check132896495686974674 1
+72C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\array\virtual\find.js132896495646943073 0
 79C:\Users\AMON\SPRINT_3\node_modules\terser\node_modules\source-map\CHANGELOG.md132900345263470780 0
 86C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth-compat\dist\esm\auth-compat\scripts132896495533248412 1
 50C:\Users\AMON\SPRINT_3\node_modules\util-deprecate132896495445656621 1
@@ -1427,22 +1459,6 @@
 47C:\Users\AMON\SPRINT_3\node_modules\xxhash-wasm132900345290431152 1
 75C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\maxlength.js132900345702453785 0
 74C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\svg-html.js132900345745383972 0
-113C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\src\platform_cordova\popup_redirect\events.test.d.ts132896495623625378 0
-89C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\performance\index.d.ts132896495689277627 0
-82C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\database\dist\compat\analytics132896495695647169 1
-88C:\Users\AMON\SPRINT_3\node_modules\postcss-selector-parser\dist\selectors\combinator.js132900345083436929 0
-71C:\Users\AMON\SPRINT_3\node_modules\firebase\functions\dist\performance132896495727448031 1
-50C:\Users\AMON\SPRINT_3\node_modules\tmp\lib\tmp.js132896495444229465 0
-67C:\Users\AMON\SPRINT_3\node_modules\firebase\analytics\dist\storage132896495679446654 1
-75C:\Users\AMON\SPRINT_3\node_modules\@parcel\packager-css\lib\CSSPackager.js132900345215474634 0
-82C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\dist\compat\analytics\index.d.ts132896495685441915 0
-67C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\regions\HK.js132900345682937625 0
-70C:\Users\AMON\SPRINT_3\node_modules\balanced-match\.github\FUNDING.yml132896495444789328 0
-83C:\Users\AMON\SPRINT_3\node_modules\@firebase\app-check-compat\dist\src\errors.d.ts132896495506405798 0
-84C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\esm5\src\model\id_token.d.ts132896495655682399 0
-86C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\database\dist\firestore\index.d.ts132896495696155786 0
-41C:\Users\AMON\SPRINT_3\node_modules\yargs132896495468603430 1
-52C:\Users\AMON\SPRINT_3\node_modules\parcel\README.md132900345289214561 0
 93C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\firestore\dist\compat\database\index.d.ts132896495699954391 0
 81C:\Users\AMON\SPRINT_3\node_modules\firebase\firestore\lite\dist\compat\app-check132896495724224700 1
 58C:\Users\AMON\SPRINT_3\node_modules\yaml\browser\scalar.js132900345380796768 0
@@ -1508,20 +1524,6 @@
 57C:\Users\AMON\SPRINT_3\node_modules\domutils\lib\feeds.js132900345030359679 0
 67C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\regions\ST.js132900345743638557 0
 54C:\Users\AMON\SPRINT_3\node_modules\isarray\.npmignore132896495441264073 0
-61C:\Users\AMON\SPRINT_3\node_modules\yaml\browser\dist\util.js132900345428641815 0
-67C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\function\bind.js132896495652182906 0
-92C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\rn\src\platform_cordova\plugins.d.ts132896495718266447 0
-53C:\Users\AMON\SPRINT_3\node_modules\yargs\browser.mjs132896495467316490 0
-82C:\Users\AMON\SPRINT_3\node_modules\firebase\analytics\dist\performance\index.d.ts132896495679376848 0
-62C:\Users\AMON\SPRINT_3\node_modules\entities\lib\maps\xml.json132900345292982589 0
-82C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\remote-config\dist\compat\auth132896495715300070 1
-91C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\balanced-match\package.json132896495559335957 0
-57C:\Users\AMON\SPRINT_3\node_modules\normalize-url\license132900345029142916 0
-85C:\Users\AMON\SPRINT_3\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.h132900345496894227 0
-66C:\Users\AMON\SPRINT_3\node_modules\yaml\dist\Document-9b4560a1.js132900345219999026 0
-70C:\Users\AMON\SPRINT_3\node_modules\css-tree\lib\common\SyntaxError.js132900345496097149 0
-95C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\esm2017\src\api\authentication\idp.d.ts132896495658570256 0
-96C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\eslint-visitor-keys\CHANGELOG.md132896495572007690 0
 113C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\rn\test\integration\webdriver\util\js_load_condition.d.ts132896495689487162 0
 87C:\Users\AMON\SPRINT_3\node_modules\websocket-driver\lib\websocket\driver\hybi\frame.js132896495454120564 0
 110C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\cordova\src\platform_browser\messagechannel\index.d.ts132896495679755821 0
@@ -1592,9 +1594,9 @@
 78C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\performance\dist\app-check132896495713523948 1
 52C:\Users\AMON\SPRINT_3\node_modules\mdn-data\LICENSE132900345028414857 0
 49C:\Users\AMON\SPRINT_3\node_modules\yargs\locales132896495466748001 1
+58C:\Users\AMON\SPRINT_3\node_modules\minimist\test\parse.js132900345285965493 0
 58C:\Users\AMON\SPRINT_3\node_modules\colord\plugins\hwb.mjs132900345322587466 0
 50C:\Users\AMON\SPRINT_3\node_modules\protobufjs\src132896495558001673 1
-58C:\Users\AMON\SPRINT_3\node_modules\minimist\test\parse.js132900345285965493 0
 76C:\Users\AMON\SPRINT_3\node_modules\@firebase\messaging\dist\esm\src\testing132896495546355690 1
 59C:\Users\AMON\SPRINT_3\node_modules\protobufjs\src\roots.js132896495547941187 0
 63C:\Users\AMON\SPRINT_3\node_modules\core-js\es\instance\fill.js132896495475684448 0
@@ -1743,13 +1745,6 @@
 81C:\Users\AMON\SPRINT_3\node_modules\@firebase\remote-config\dist\esm\test\storage132896495516694906 1
 82C:\Users\AMON\SPRINT_3\node_modules\terser\node_modules\source-map\source-map.d.ts132900345292763300 0
 65C:\Users\AMON\SPRINT_3\node_modules\yargs\build\lib\completion.js132896495458868215 0
-82C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\storage\dist\compat\index.d.ts132896495719338710 0
-60C:\Users\AMON\SPRINT_3\node_modules\string_decoder\README.md132896495444729509 0
-81C:\Users\AMON\SPRINT_3\node_modules\firebase\app\dist\compat\analytics\index.d.ts132896495680723238 0
-54C:\Users\AMON\SPRINT_3\node_modules\json5\lib\index.js132900345212472072 0
-71C:\Users\AMON\SPRINT_3\node_modules\utility-types\dist\utility-types.js132900345237424541 0
-73C:\Users\AMON\SPRINT_3\node_modules\core-js\features\number\is-integer.js132896495573843429 0
-87C:\Users\AMON\SPRINT_3\node_modules\postcss-selector-parser\dist\selectors\container.js132900345213997945 0
 60C:\Users\AMON\SPRINT_3\node_modules\minimist\readme.markdown132900345324179821 0
 59C:\Users\AMON\SPRINT_3\node_modules\terser\tools\props.html132900345240448834 0
 97C:\Users\AMON\SPRINT_3\node_modules\@firebase\database\dist\node-esm\src\core\view\CacheNode.d.ts132896495552280851 0
@@ -1780,9 +1775,9 @@
 86C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\remote-config\dist\auth\index.d.ts132896495714855957 0
 67C:\Users\AMON\SPRINT_3\node_modules\yaml\browser\types\timestamp.js132900345410567902 0
 73C:\Users\AMON\SPRINT_3\node_modules\@firebase\util\dist\src\emulator.d.ts132896495479895505 0
-83C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\compat\messaging132896495688828827 1
 73C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\dist\index.esm.js.map132896495646254918 0
 71C:\Users\AMON\SPRINT_3\node_modules\yargs\build\lib\utils\obj-filter.js132896495461479079 0
+83C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\compat\messaging132896495688828827 1
 121C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\src\local\indexeddb_persistence.d.ts132896495685960522 0
 76C:\Users\AMON\SPRINT_3\node_modules\css-tree\lib\syntax\node\UnicodeRange.js132900345497821706 0
 62C:\Users\AMON\SPRINT_3\node_modules\selenium-webdriver\testing132896495465311847 1
@@ -2010,6 +2005,13 @@
 50C:\Users\AMON\SPRINT_3\node_modules\y18n\README.md132896495446614098 0
 75C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\es.string.trim-start.js132896495603215131 0
 56C:\Users\AMON\SPRINT_3\node_modules\whatwg-url\README.md132896495441796873 0
+85C:\Users\AMON\SPRINT_3\node_modules\@firebase\storage-compat\dist\esm\test\utils.d.ts132896495480005177 0
+73C:\Users\AMON\SPRINT_3\node_modules\core-js\es\object\set-prototype-of.js132896495522847961 0
+56C:\Users\AMON\SPRINT_3\node_modules\y18n\build\index.cjs132896495438325793 0
+86C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\react-native\dist\storage\index.d.ts132896495688110788 0
+76C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\matchmedia.js132900345701855440 0
+77C:\Users\AMON\SPRINT_3\node_modules\postcss-normalize-whitespace\src\index.js132900345084544072 0
+59C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\wrappers132896495479835633 1
 64C:\Users\AMON\SPRINT_3\node_modules\svgo\plugins\inlineStyles.js132900345373193280 0
 93C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\source-map\dist\source-map.js132896495551593934 0
 66C:\Users\AMON\SPRINT_3\node_modules\@parcel\core\lib\Validation.js132900345564540287 0
@@ -2202,6 +2204,14 @@
 70C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\wrappers\closure.js132896495475764433 0
 69C:\Users\AMON\SPRINT_3\node_modules\websocket-extensions\package.json132896495449333524 0
 60C:\Users\AMON\SPRINT_3\node_modules\core-js\es\math\acosh.js132896495485363157 0
+121C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\test\unit\local\persistence_promise.test.d.ts132896495711608813 0
+62C:\Users\AMON\SPRINT_3\node_modules\v8-compile-cache\README.md132900345253956337 0
+77C:\Users\AMON\SPRINT_3\node_modules\lmdb\prebuilds\win32-x64\node.abi102.node132900345668869545 0
+58C:\Users\AMON\SPRINT_3\node_modules\source-map\lib\util.js132900345294353561 0
+79C:\Users\AMON\SPRINT_3\node_modules\websocket-extensions\lib\pipeline\README.md132896495457631503 0
+66C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\array\concat.js132896495645858344 0
+99C:\Users\AMON\SPRINT_3\node_modules\@grpc\grpc-js\build\src\generated\grpc\channelz\v1\Address.d.ts132896495545101027 0
+83C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\word-wrap\README.md132896495574619493 0
 60C:\Users\AMON\SPRINT_3\node_modules\@firebase\messaging\dist132896495534084472 1
 84C:\Users\AMON\SPRINT_3\node_modules\websocket-extensions\lib\pipeline\ring_buffer.js132896495446115437 0
 78C:\Users\AMON\SPRINT_3\node_modules\core-js\features\instance\last-index-of.js132896495569083532 0
@@ -2281,7 +2291,7 @@
 113C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\firestore\test\integration\util\firebase_export.d.ts132896495659826895 0
 78C:\Users\AMON\SPRINT_3\node_modules\utility-types\dist\functional-helpers.d.ts132900345324757196 0
 60C:\Users\AMON\SPRINT_3\node_modules\v8-compile-cache\LICENSE132900345202351752 0
-40C:\Users\AMON\SPRINT_3\dist\sign up.html132923513272293738 0
+40C:\Users\AMON\SPRINT_3\dist\sign up.html132924370154337883 0
 76C:\Users\AMON\SPRINT_3\node_modules\firebase\messaging\dist\compat\messaging132896495729728901 1
 61C:\Users\AMON\SPRINT_3\node_modules\stylehacks\src\dictionary132900345323355403 1
 79C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\css-animation.js132900345499447364 0
@@ -2302,6 +2312,16 @@
 80C:\Users\AMON\SPRINT_3\node_modules\utility-types\dist\aliases-and-guards.js.map132900345260740325 0
 56C:\Users\AMON\SPRINT_3\node_modules\json5\lib\index.d.ts132900345354667350 0
 73C:\Users\AMON\SPRINT_3\node_modules\utility-types\dist\utility-types.d.ts132900345354659561 0
+82C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\storage\dist\compat\index.d.ts132896495719338710 0
+60C:\Users\AMON\SPRINT_3\node_modules\string_decoder\README.md132896495444729509 0
+81C:\Users\AMON\SPRINT_3\node_modules\firebase\app\dist\compat\analytics\index.d.ts132896495680723238 0
+54C:\Users\AMON\SPRINT_3\node_modules\json5\lib\index.js132900345212472072 0
+71C:\Users\AMON\SPRINT_3\node_modules\utility-types\dist\utility-types.js132900345237424541 0
+73C:\Users\AMON\SPRINT_3\node_modules\core-js\features\number\is-integer.js132896495573843429 0
+87C:\Users\AMON\SPRINT_3\node_modules\postcss-selector-parser\dist\selectors\container.js132900345213997945 0
+56C:\Users\AMON\SPRINT_3\node_modules\terser\lib\minify.js132900345403465154 0
+61C:\Users\AMON\SPRINT_3\node_modules\util-deprecate\History.md132896495445766326 0
+84C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\link-rel-prerender.js132900345698185300 0
 107C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\esm5\src\platform_browser\mfa\assertions\phone.d.ts132896495713712264 0
 57C:\Users\AMON\SPRINT_3\node_modules\css-tree\CHANGELOG.md132900345521028786 0
 105C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\esm2017\src\platform_browser\providers\phone.d.ts132896495713583454 0
@@ -2390,8 +2410,8 @@
 60C:\Users\AMON\SPRINT_3\node_modules\faye-websocket\README.md132896495460432231 0
 80C:\Users\AMON\SPRINT_3\node_modules\@grpc\grpc-js\src\resolving-load-balancer.ts132896495570092379 0
 64C:\Users\AMON\SPRINT_3\node_modules\@parcel\optimizer-terser\src132900345225694363 1
-83C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\compat\firestore132896495688691187 1
 70C:\Users\AMON\SPRINT_3\node_modules\type-fest\source\package-json.d.ts132900345361911718 0
+83C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\compat\firestore132896495688691187 1
 125C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\packages\firestore\test\integration\util\events_accumulator.d.ts132896495654655140 0
 83C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\firestore\dist\compat\firestore132896495699984308 1
 70C:\Users\AMON\SPRINT_3\node_modules\type-fest\source\partial-deep.d.ts132900345363502398 0
@@ -2448,6 +2468,9 @@
 76C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\internal.js.map132896495552490313 0
 49C:\Users\AMON\SPRINT_3\node_modules\tslib\modules132896495458838266 1
 61C:\Users\AMON\SPRINT_3\node_modules\core-js\features\index.js132896495565673872 0
+110C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\src\model\type_order.d.ts132896495745214300 0
+56C:\Users\AMON\SPRINT_3\node_modules\process\package.json132924117326876038 0
+68C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\storage\dist\app132896495717642735 1
 51C:\Users\AMON\SPRINT_3\node_modules\tslib\README.md132896495460172567 0
 82C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\auth\dist\functions\index.d.ts132896495695078673 0
 56C:\Users\AMON\SPRINT_3\node_modules\tslib\tslib.es6.html132896495454898523 0
@@ -2525,11 +2548,6 @@
 88C:\Users\AMON\SPRINT_3\node_modules\css-tree\lib\syntax\pseudo\common\nthWithOfClause.js132900345485038054 0
 91C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\firestore\src\core\target.d.ts132896495740230706 0
 56C:\Users\AMON\SPRINT_3\node_modules\timsort\package.json132900345041617070 0
-85C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\messaging\dist\compat\performance132896495712778122 1
-67C:\Users\AMON\SPRINT_3\node_modules\protobufjs\src\util\longbits.js132896495520791256 0
-56C:\Users\AMON\SPRINT_3\node_modules\safe-buffer\index.js132896495444139368 0
-100C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\firestore\src\lite-api\field_value.d.ts132896495659039002 0
-58C:\Users\AMON\SPRINT_3\node_modules\timsort\src\timsort.js132900345259305525 0
 76C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\auth\dist\app\index.d.ts132896495694042684 0
 62C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\date\now.js132896495650232238 0
 73C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\colr-v1.js132900345486673685 0
@@ -2585,9 +2603,9 @@
 71C:\Users\AMON\SPRINT_3\node_modules\terser\node_modules\source-map\dist132900345302725376 1
 61C:\Users\AMON\SPRINT_3\node_modules\require-directory\LICENSE132896495438694769 0
 57C:\Users\AMON\SPRINT_3\node_modules\@parcel\markdown-ansi132900345226896997 1
+83C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\compat\functions132896495688750991 1
 71C:\Users\AMON\SPRINT_3\node_modules\firebase\firestore\dist\performance132896495723765920 1
 57C:\Users\AMON\SPRINT_3\node_modules\node-fetch\browser.js132896495448261983 0
-83C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\compat\functions132896495688750991 1
 83C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\esm5\test\integration\flows132896495716615895 1
 59C:\Users\AMON\SPRINT_3\node_modules\lilconfig\dist\index.js132900345083566573 0
 88C:\Users\AMON\SPRINT_3\node_modules\@firebase\installations\dist\src\util\constants.d.ts132896495516525702 0
@@ -2616,8 +2634,8 @@
 96C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node-esm\src\core\credentials\phone.d.ts132896495713832310 0
 96C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\rn\src\core\providers\facebook.test.d.ts132896495624073684 0
 70C:\Users\AMON\SPRINT_3\node_modules\@protobufjs\aspromise\package.json132896495441936503 0
-92C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\compat\storage\index.d.ts132896495688988421 0
 87C:\Users\AMON\SPRINT_3\node_modules\terser\node_modules\source-map\lib\binary-search.js132900345350243628 0
+92C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\compat\storage\index.d.ts132896495688988421 0
 59C:\Users\AMON\SPRINT_3\node_modules\core-js\es\array\map.js132896495463792845 0
 74C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\acorn\dist132896495576637659 1
 112C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\cordova\src\core\strategies\email_and_password.test.d.ts132896495599641349 0
@@ -2746,15 +2764,15 @@
 77C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\audiotracks.js132900345402028920 0
 112C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\src\api\project_config\get_project_config.test.d.ts132896495646623918 0
 68C:\Users\AMON\SPRINT_3\node_modules\svgo\plugins\convertTransform.js132900345361451983 0
+51C:\Users\AMON\SPRINT_3\node_modules\source-map\dist132900345364641404 1
+88C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\brace-expansion\index.js132896495502241500 0
+67C:\Users\AMON\SPRINT_3\node_modules\css-select\lib\pseudo-selectors132900345377196307 1
 61C:\Users\AMON\SPRINT_3\node_modules\terser\dist\bundle.min.js132900345358808858 0
 75C:\Users\AMON\SPRINT_3\node_modules\firebase\app-check\dist\auth\index.d.ts132896495679646117 0
 129C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\test\integration\browser\indexeddb.test.d.ts132896495687713869 0
 49C:\Users\AMON\SPRINT_3\node_modules\pako\index.js132896495459702967 0
 74C:\Users\AMON\SPRINT_3\node_modules\firebase\storage\dist\compat\app-check132896495739991322 1
 60C:\Users\AMON\SPRINT_3\node_modules\protobufjs\src\method.js132896495523376537 0
-51C:\Users\AMON\SPRINT_3\node_modules\source-map\dist132900345364641404 1
-88C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\brace-expansion\index.js132896495502241500 0
-67C:\Users\AMON\SPRINT_3\node_modules\css-select\lib\pseudo-selectors132900345377196307 1
 51C:\Users\AMON\SPRINT_3\node_modules\chalk\readme.md132900345268153014 0
 81C:\Users\AMON\SPRINT_3\node_modules\firebase\firebase-remote-config-compat.js.map132896495627861046 0
 78C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\input-search.js132900345690482006 0
@@ -2909,8 +2927,10 @@
 77C:\Users\AMON\SPRINT_3\node_modules\svgo\plugins\removeUnknownsAndDefaults.js132900345458833755 0
 126C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\packages\firestore\test\unit\model\target_index_matcher.test.d.ts132896495740191170 0
 66C:\Users\AMON\SPRINT_3\node_modules\svgo\plugins\removeUnusedNS.js132900345460429312 0
-125C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node-esm\src\platform_react_native\persistence\react_native.test.d.ts132896495726769804 0
-57C:\Users\AMON\SPRINT_3\node_modules\minimist\test\dash.js132900345084384954 0
+68C:\Users\AMON\SPRINT_3\node_modules\core-js\features\array\concat.js132896495560291692 0
+111C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\firestore\test\integration\remote\remote.test.d.ts132896495722765723 0
+111C:\Users\AMON\SPRINT_3\node_modules\@firebase\installations\dist\src\functions\delete-installation-request.d.ts132896495517829245 0
+65C:\Users\AMON\SPRINT_3\node_modules\svgo\plugins\removeViewBox.js132900345462366960 0
 82C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\react-native\dist\compat\storage132896495687683952 1
 69C:\Users\AMON\SPRINT_3\node_modules\svgo\plugins\removeXMLProcInst.js132900345463543836 0
 62C:\Users\AMON\SPRINT_3\node_modules\svgo\plugins\reusePaths.js132900345463952780 0
@@ -3113,6 +3133,7 @@
 59C:\Users\AMON\SPRINT_3\node_modules\source-map-js\README.md132900345294996935 0
 102C:\Users\AMON\SPRINT_3\node_modules\@firebase\performance\dist\src\resources\network_request.test.d.ts132896495503271863 0
 86C:\Users\AMON\SPRINT_3\node_modules\firebase\messaging\dist\compat\database\index.d.ts132896495729539399 0
+47C:\Users\AMON\SPRINT_3\dist\sign in.dce8c39a.js132924370185288977 0
 60C:\Users\AMON\SPRINT_3\node_modules\caniuse-api\package.json132900345029382275 0
 112C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\src\platform\browser\serializer.d.ts132896495725233073 0
 63C:\Users\AMON\SPRINT_3\node_modules\source-map-js\source-map.js132900345254105911 0
@@ -3216,8 +3237,6 @@
 61C:\Users\AMON\SPRINT_3\node_modules\selenium-webdriver\NOTICE132896495448222085 0
 65C:\Users\AMON\SPRINT_3\node_modules\selenium-webdriver\CHANGES.md132896495470317612 0
 71C:\Users\AMON\SPRINT_3\node_modules\postcss-merge-longhand\src\lib\decl132900345357157983 1
-64C:\Users\AMON\SPRINT_3\node_modules\selenium-webdriver\chrome.js132896495459057684 0
-58C:\Users\AMON\SPRINT_3\node_modules\commander\package.json132900345253258764 0
 54C:\Users\AMON\SPRINT_3\node_modules\path-type\index.js132900345074410541 0
 75C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\wake-lock.js132900345761136465 0
 61C:\Users\AMON\SPRINT_3\node_modules\@swc\helpers\src\index.js132900345497941418 0
@@ -3351,16 +3370,10 @@
 69C:\Users\AMON\SPRINT_3\node_modules\@parcel\core\src\public\Config.js132900345435031146 0
 75C:\Users\AMON\SPRINT_3\node_modules\firebase\database\dist\compat\analytics132896495720892839 1
 63C:\Users\AMON\SPRINT_3\node_modules\readable-stream\.travis.yml132896495463094731 0
-72C:\Users\AMON\SPRINT_3\node_modules\@firebase\messaging-compat\README.md132896495476153102 0
-85C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\compat\performance132896495688868720 1
 67C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\regions\EG.js132900345661484997 0
 124C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\packages\firestore\src\local\indexeddb_mutation_batch_impl.d.ts132896495685561596 0
 55C:\Users\AMON\SPRINT_3\node_modules\readable-stream\doc132896495462137356 1
 59C:\Users\AMON\SPRINT_3\node_modules\readable-stream\LICENSE132896495438494919 0
-91C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\test\helpers\iframe_event.d.ts132896495661598596 0
-52C:\Users\AMON\SPRINT_3\node_modules\jszip\lib\nodejs132896495466807834 1
-67C:\Users\AMON\SPRINT_3\node_modules\minimist\test\parse_modified.js132900345266534070 0
-80C:\Users\AMON\SPRINT_3\node_modules\@swc\helpers\src\_class_private_field_get.js132900345473955982 0
 70C:\Users\AMON\SPRINT_3\node_modules\@parcel\logger\test\Logger.test.js132900345249510456 0
 63C:\Users\AMON\SPRINT_3\node_modules\readable-stream\readable.js132896495460192485 0
 71C:\Users\AMON\SPRINT_3\node_modules\readable-stream\writable-browser.js132896495461638613 0
@@ -3391,6 +3404,7 @@
 104C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\src\api\authentication\create_auth_uri.test.d.ts132896495590691535 0
 65C:\Users\AMON\SPRINT_3\node_modules\react-refresh\build-info.json132900345268502072 0
 60C:\Users\AMON\SPRINT_3\node_modules\react-refresh\runtime.js132900345257118423 0
+85C:\Users\AMON\SPRINT_3\dist\Lil Yachty - 1 Night (Official Video) - Copy.b0064ff1.mp3132924370180693070 0
 56C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\auth132896495561269868 1
 60C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\README.md132896495655961644 0
 69C:\Users\AMON\SPRINT_3\node_modules\@parcel\config-default\index.json132900345243452372 0
@@ -3464,6 +3478,7 @@
 83C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\src\core\auth\emulator.d.ts132896495611262602 0
 61C:\Users\AMON\SPRINT_3\node_modules\protobufjs\src\message.js132896495523167122 0
 49C:\Users\AMON\SPRINT_3\node_modules\css-tree\dist132900345384818620 1
+60C:\Users\AMON\SPRINT_3\node_modules\protobufjs\src\object.js132896495525178254 0
 105C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\esm2017\src\core\credentials\auth_credential.d.ts132896495576876992 0
 88C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\font-metrics-overrides.js132900345670261644 0
 86C:\Users\AMON\SPRINT_3\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts132900345499098341 1
@@ -3580,6 +3595,8 @@
 106C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\rn\src\platform_cordova\popup_redirect\events.d.ts132896495623376385 0
 61C:\Users\AMON\SPRINT_3\node_modules\get-caller-file\README.md132896495444929221 0
 71C:\Users\AMON\SPRINT_3\node_modules\css-tree\lib\syntax\node\AnPlusB.js132900345038465953 0
+81C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node-esm\test\helpers\api132896495654116588 1
+52C:\Users\AMON\SPRINT_3\node_modules\process\index.js132924117327759784 0
 78C:\Users\AMON\SPRINT_3\node_modules\@firebase\app-compat\dist\esm\package.json132896495502784487 0
 57C:\Users\AMON\SPRINT_3\node_modules\protobufjs\dist\light132896495575615281 1
 72C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\dist\index.rn.cjs.js132896495560801129 0
@@ -3606,6 +3623,7 @@
 79C:\Users\AMON\SPRINT_3\node_modules\protobufjs\dist\minimal\protobuf.min.js.map132896495569233154 0
 69C:\Users\AMON\SPRINT_3\node_modules\protobufjs\dist\minimal\README.md132896495575779920 0
 69C:\Users\AMON\SPRINT_3\node_modules\protobufjs\dist\light\protobuf.js132896495533428455 0
+51C:\Users\AMON\SPRINT_3\node_modules\process\test.js132924117328220468 0
 90C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\escodegen\bin\escodegen.js132896495480045092 0
 57C:\Users\AMON\SPRINT_3\node_modules\browserslist\error.js132900345210736704 0
 73C:\Users\AMON\SPRINT_3\node_modules\protobufjs\dist\light\protobuf.js.map132896495565015652 0
@@ -3721,15 +3739,15 @@
 91C:\Users\AMON\SPRINT_3\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.h132900345496485281 0
 68C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\once132896495573822927 1
 74C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\optionator132896495573883346 1
-74C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\storage\dist\firestore132896495719886211 1
-71C:\Users\AMON\SPRINT_3\node_modules\postcss-calc\src\lib\stringifier.js132900345290630692 0
-69C:\Users\AMON\SPRINT_3\node_modules\postcss-normalize-url\LICENSE-MIT132900345065003264 0
-61C:\Users\AMON\SPRINT_3\node_modules\minimist\test\kv_short.js132900345227909380 0
 87C:\Users\AMON\SPRINT_3\node_modules\@firebase\installations\dist\src\api\get-token.d.ts132896495529814811 0
 74C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\prelude-ls132896495574003014 1
 100C:\Users\AMON\SPRINT_3\node_modules\@grpc\grpc-js\build\src\generated\grpc\channelz\v1\Server.js.map132896495528778255 0
 55C:\Users\AMON\SPRINT_3\node_modules\nan\include_dirs.js132900345086438873 0
 68C:\Users\AMON\SPRINT_3\node_modules\@protobufjs\float\bench\index.js132896495446554230 0
+74C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\storage\dist\firestore132896495719886211 1
+71C:\Users\AMON\SPRINT_3\node_modules\postcss-calc\src\lib\stringifier.js132900345290630692 0
+61C:\Users\AMON\SPRINT_3\node_modules\minimist\test\kv_short.js132900345227909380 0
+69C:\Users\AMON\SPRINT_3\node_modules\postcss-normalize-url\LICENSE-MIT132900345065003264 0
 68C:\Users\AMON\SPRINT_3\node_modules\@parcel\packager-js\package.json132900345361521845 0
 73C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\imports.js132900345686931505 0
 80C:\Users\AMON\SPRINT_3\node_modules\@firebase\functions-compat\dist\node-esm\src132896495496362908 1
@@ -3862,9 +3880,6 @@
 87C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\prelude-ls\package.json132896495561100327 0
 76C:\Users\AMON\SPRINT_3\node_modules\firebase\remote-config\dist\messaging\sw132896495737280862 1
 84C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\prelude-ls\README.md132896495574003014 0
-78C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\app\dist\compat\index.d.ts132896495693225063 0
-53C:\Users\AMON\SPRINT_3\node_modules\parcel\src\bin.js132900345231886489 0
-86C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\prelude-ls\lib\Func.js132896495491263737 0
 102C:\Users\AMON\SPRINT_3\node_modules\@firebase\remote-config\dist\esm\test\client\rest_client.test.d.ts132896495500774824 0
 87C:\Users\AMON\SPRINT_3\node_modules\protobufjs\cli\node_modules\prelude-ls\lib\index.js132896495510755916 0
 78C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\es.object.define-setter.js132896495601014419 0
@@ -4233,6 +4248,11 @@
 45C:\Users\AMON\SPRINT_3\node_modules\json5\lib132900345360852821 1
 69C:\Users\AMON\SPRINT_3\node_modules\process-nextick-args\package.json132896495438295469 0
 66C:\Users\AMON\SPRINT_3\node_modules\process-nextick-args\readme.md132896495444639732 0
+76C:\Users\AMON\SPRINT_3\node_modules\@firebase\storage\dist\index.node.cjs.js132896495475863744 0
+79C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\firestore\dist\index.cjs.js132896495555127637 0
+53C:\Users\AMON\SPRINT_3\node_modules\process\.eslintrc132924117329114041 0
+68C:\Users\AMON\SPRINT_3\node_modules\firebase\database\dist\app-check132896495720534495 1
+51C:\Users\AMON\SPRINT_3\node_modules\process\LICENSE132924117327401291 0
 56C:\Users\AMON\SPRINT_3\node_modules\posthtml-render\dist132900345240438273 1
 89C:\Users\AMON\SPRINT_3\node_modules\@parcel\runtime-js\src\helpers\browser\html-loader.js132900345356859243 0
 74C:\Users\AMON\SPRINT_3\node_modules\lmdb\dependencies\lz4\lib\liblz4.pc.in132900345499078921 0
@@ -4280,7 +4300,7 @@
 78C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\array-buffer\constructor.js132896495644939569 0
 78C:\Users\AMON\SPRINT_3\node_modules\firebase\functions\dist\storage\index.d.ts132896495727587620 0
 73C:\Users\AMON\SPRINT_3\node_modules\postcss-unique-selectors\package.json132900345086700666 0
-40C:\Users\AMON\SPRINT_3\dist\sign in.html132923513274583847 0
+40C:\Users\AMON\SPRINT_3\dist\sign in.html132924370185089506 0
 78C:\Users\AMON\SPRINT_3\node_modules\@parcel\utils\test\input\config\empty.json132900345471273217 0
 70C:\Users\AMON\SPRINT_3\node_modules\postcss-unique-selectors\README.md132900345200397454 0
 98C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\test\integration\webdriver\popup.test.d.ts132896495722894650 0
@@ -4314,15 +4334,6 @@
 92C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\functions\dist\firestore\lite\index.d.ts132896495705227010 0
 73C:\Users\AMON\SPRINT_3\node_modules\postcss-selector-parser\dist\index.js132900345285526720 0
 74C:\Users\AMON\SPRINT_3\node_modules\postcss-selector-parser\dist\selectors132900345372552768 1
-89C:\Users\AMON\SPRINT_3\node_modules\@firebase\functions-compat\dist\node-esm\package.json132896495485025479 0
-77C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\wbr-element.js132900345761954264 0
-119C:\Users\AMON\SPRINT_3\node_modules\@firebase\database-compat\dist\node-esm\database-compat\test\servervalues.test.d.ts132896495534643731 0
-61C:\Users\AMON\SPRINT_3\node_modules\jszip\lib\compressions.js132896495449033921 0
-112C:\Users\AMON\SPRINT_3\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-exclude132900345484409721 1
-65C:\Users\AMON\SPRINT_3\node_modules\@parcel\transformer-image\lib132900345265959634 1
-75C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\es.reflect.construct.js132896495601722505 0
-55C:\Users\AMON\SPRINT_3\node_modules\minimatch\README.md132896495445696517 0
-76C:\Users\AMON\SPRINT_3\node_modules\postcss-selector-parser\dist\tokenize.js132900345364531643 0
 78C:\Users\AMON\SPRINT_3\node_modules\postcss-selector-parser\dist\tokenTypes.js132900345366107417 0
 93C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\src\util\log.d.ts132896495693169600 0
 86C:\Users\AMON\SPRINT_3\node_modules\@firebase\messaging\dist\src\helpers\register.d.ts132896495534713569 0
@@ -4488,6 +4499,7 @@
 73C:\Users\AMON\SPRINT_3\node_modules\postcss-normalize-positions\README.md132900345203927602 0
 76C:\Users\AMON\SPRINT_3\node_modules\postcss-normalize-positions\src\index.js132900345084683575 0
 67C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\string\anchor.js132896495658550360 0
+76C:\Users\AMON\SPRINT_3\node_modules\postcss-normalize-display-values\src\lib132900345200157683 1
 80C:\Users\AMON\SPRINT_3\node_modules\firebase\functions\dist\functions\index.d.ts132896495727238551 0
 78C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\typed-array\uint32-array.js132896495675866461 0
 93C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\es.object.get-own-property-descriptors.js132896495601144066 0
@@ -4634,6 +4646,7 @@
 93C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node-esm\src\core\providers\saml.d.ts132896495742287412 0
 57C:\Users\AMON\SPRINT_3\node_modules\error-ex\package.json132900345032357446 0
 73C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\rellist.js132900345736471593 0
+51C:\Users\AMON\SPRINT_3\dist\listen.1b1aba7e.css.map132923531876944860 0
 70C:\Users\AMON\SPRINT_3\node_modules\postcss-discard-overridden\LICENSE132900345073554461 0
 115C:\Users\AMON\SPRINT_3\node_modules\@grpc\grpc-js\build\src\generated\grpc\channelz\v1\GetSubchannelResponse.js.map132896495522633231 0
 98C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\firestore\dist\compat\remote-config\index.d.ts132896495700263643 0
@@ -4688,6 +4701,7 @@
 76C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\css-canvas.js132900345519384643 0
 72C:\Users\AMON\SPRINT_3\node_modules\firebase\storage\dist\compat\storage132896495740785387 1
 53C:\Users\AMON\SPRINT_3\node_modules\nan\doc\script.md132900345402896610 0
+46C:\Users\AMON\SPRINT_3\dist\listen.fdee0e35.js132923533865081014 0
 81C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\dist\compat\database\index.d.ts132896495685632184 0
 72C:\Users\AMON\SPRINT_3\node_modules\postcss-discard-comments\LICENSE-MIT132900345073722377 0
 109C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\esm2017\src\platform_browser\popup_redirect.test.d.ts132896495720942708 0
@@ -4821,8 +4835,6 @@
 58C:\Users\AMON\SPRINT_3\node_modules\postcss\lib\postcss.js132900345325156239 0
 70C:\Users\AMON\SPRINT_3\node_modules\@grpc\grpc-js\build\src\index.d.ts132896495563955418 0
 65C:\Users\AMON\SPRINT_3\node_modules\postcss\lib\previous-map.d.ts132900345409740124 0
-105C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\src\remote\remote_syncer.d.ts132896495722657614 0
-65C:\Users\AMON\SPRINT_3\node_modules\minimist\test\default_bool.js132900345198751754 0
 68C:\Users\AMON\SPRINT_3\node_modules\@grpc\grpc-js\build\src\index.js132896495470108197 0
 63C:\Users\AMON\SPRINT_3\node_modules\postcss\lib\previous-map.js132900345344557167 0
 75C:\Users\AMON\SPRINT_3\node_modules\core-js\features\async-iterator\find.js132896495562875572 0
@@ -5129,9 +5141,9 @@
 51C:\Users\AMON\SPRINT_3\node_modules\acorn\bin\acorn132900345028614370 0
 60C:\Users\AMON\SPRINT_3\node_modules\immediate\lib\browser.js132896495446524319 0
 55C:\Users\AMON\SPRINT_3\node_modules\nan\doc\callback.md132900345376792856 0
+59C:\Users\AMON\SPRINT_3\node_modules\minimist\test\dotted.js132900345203129289 0
 82C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\es.reflect.set-prototype-of.js132896495601961869 0
 57C:\Users\AMON\SPRINT_3\node_modules\nan\doc\converters.md132900345377714904 0
-59C:\Users\AMON\SPRINT_3\node_modules\minimist\test\dotted.js132900345203129289 0
 66C:\Users\AMON\SPRINT_3\node_modules\core-js\features\array\sort.js132896495561409497 0
 51C:\Users\AMON\SPRINT_3\node_modules\nan\doc\json.md132900345380806635 0
 67C:\Users\AMON\SPRINT_3\node_modules\@firebase\analytics-compat\dist132896495506915808 1
@@ -5229,14 +5241,25 @@
 52C:\Users\AMON\SPRINT_3\node_modules\minimist\LICENSE132900345032397325 0
 79C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\dispatchevent.js132900345657256370 0
 67C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\regions\WS.js132900345766581824 0
+49C:\Users\AMON\SPRINT_3\node_modules\minimist\test132900345319010518 1
+84C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\src\util132896495745763094 1
+61C:\Users\AMON\SPRINT_3\node_modules\minimist\test\all_bool.js132900345039104177 0
 57C:\Users\AMON\SPRINT_3\node_modules\minimist\test\bool.js132900345073812140 0
 79C:\Users\AMON\SPRINT_3\node_modules\core-js\features\reflect\define-property.js132896495576976735 0
 72C:\Users\AMON\SPRINT_3\node_modules\firebase\firestore\lite\dist\storage132896495725083482 1
+125C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node-esm\src\platform_react_native\persistence\react_native.test.d.ts132896495726769804 0
+57C:\Users\AMON\SPRINT_3\node_modules\minimist\test\dash.js132900345084384954 0
+105C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\src\remote\remote_syncer.d.ts132896495722657614 0
+65C:\Users\AMON\SPRINT_3\node_modules\minimist\test\default_bool.js132900345198751754 0
 57C:\Users\AMON\SPRINT_3\node_modules\minimist\test\long.js132900345244539389 0
 57C:\Users\AMON\SPRINT_3\node_modules\entities\lib\index.js132900345249292782 0
 50C:\Users\AMON\SPRINT_3\dist\listen.501444b3.js.map132911310330059528 0
 89C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\messaging\dist\compat\index.perf.d.ts132896495743454282 0
 56C:\Users\AMON\SPRINT_3\node_modules\minimist\test\num.js132900345254135835 0
+91C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\test\helpers\iframe_event.d.ts132896495661598596 0
+52C:\Users\AMON\SPRINT_3\node_modules\jszip\lib\nodejs132896495466807834 1
+67C:\Users\AMON\SPRINT_3\node_modules\minimist\test\parse_modified.js132900345266534070 0
+80C:\Users\AMON\SPRINT_3\node_modules\@swc\helpers\src\_class_private_field_get.js132900345473955982 0
 66C:\Users\AMON\SPRINT_3\node_modules\@parcel\cache\src\LMDBCache.js132900345292753329 0
 58C:\Users\AMON\SPRINT_3\node_modules\minimist\test\proto.js132900345290860665 0
 81C:\Users\AMON\SPRINT_3\node_modules\@protobufjs\inquire\tests\data\emptyObject.js132896495457451978 0
@@ -5276,12 +5299,12 @@
 70C:\Users\AMON\SPRINT_3\node_modules\mdn-data\css\selectors.schema.json132900345355557425 0
 67C:\Users\AMON\SPRINT_3\node_modules\core-js\es\instance\includes.js132896495476958689 0
 59C:\Users\AMON\SPRINT_3\node_modules\mdn-data\css\types.json132900345361271662 0
-95C:\Users\AMON\SPRINT_3\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.c132900345412113748 0
-92C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\compat\app\index.cdn.d.ts132896495655213659 0
-58C:\Users\AMON\SPRINT_3\node_modules\@parcel\optimizer-svgo132900345243382504 1
 73C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\app\dist\auth\cordova132896495692245667 1
 59C:\Users\AMON\SPRINT_3\node_modules\mdn-data\css\units.json132900345364531643 0
 71C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\es.number.is-nan.js132896495600705255 0
+58C:\Users\AMON\SPRINT_3\node_modules\@parcel\optimizer-svgo132900345243382504 1
+95C:\Users\AMON\SPRINT_3\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.c132900345412113748 0
+92C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\compat\app\index.cdn.d.ts132896495655213659 0
 66C:\Users\AMON\SPRINT_3\node_modules\mdn-data\css\units.schema.json132900345366117408 0
 57C:\Users\AMON\SPRINT_3\node_modules\long\dist\long.js.map132896495454190401 0
 57C:\Users\AMON\SPRINT_3\node_modules\mdn-data\api\index.js132900345029462082 0
@@ -5298,7 +5321,7 @@
 110C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\firestore\test\unit\local\index_manager.test.d.ts132896495681273580 0
 69C:\Users\AMON\SPRINT_3\node_modules\firebase\firebase-database.js.map132896495607132421 0
 74C:\Users\AMON\SPRINT_3\node_modules\firebase\firebase-remote-config.js.map132896495629192757 0
-38C:\Users\AMON\SPRINT_3\dist\index.html132923449571755773 0
+38C:\Users\AMON\SPRINT_3\dist\index.html132924370185009691 0
 55C:\Users\AMON\SPRINT_3\node_modules\lodash.uniq\LICENSE132900345036430934 0
 72C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\string\virtual\sub.js132896495661199634 0
 119C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\src\lite-api\user_data_writer.d.ts132896495748353963 0
@@ -5508,8 +5531,6 @@
 85C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\link-rel-preconnect.js132900345697387407 0
 58C:\Users\AMON\SPRINT_3\node_modules\entities\lib\decode.js132900345203558257 0
 95C:\Users\AMON\SPRINT_3\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.1132900345356740761 0
-78C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\array\virtual\find-index.js132896495646923119 0
-98C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\compat\remote-config\index.d.ts132896495688948800 0
 78C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\performance\dist\analytics132896495713433839 1
 95C:\Users\AMON\SPRINT_3\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.c132900345390289293 0
 119C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\test\unit\specs\resume_token_spec.test.d.ts132896495724194766 0
@@ -5902,6 +5923,7 @@
 70C:\Users\AMON\SPRINT_3\node_modules\core-js\features\array\flat-map.js132896495560711345 0
 67C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\regions\VU.js132900345760927100 0
 66C:\Users\AMON\SPRINT_3\node_modules\firebase\messaging\sw\dist\app132896495730734262 1
+52C:\Users\AMON\SPRINT_3\dist\selectartist.d680613f.js132924370750169809 0
 92C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\app\dist\compat\remote-config\index.d.ts132896495693364511 0
 52C:\Users\AMON\SPRINT_3\node_modules\idb\lib\idb.d.ts132896495458439367 0
 67C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\regions\CR.js132900345497861643 0
@@ -6011,7 +6033,7 @@
 65C:\Users\AMON\SPRINT_3\node_modules\@protobufjs\pool\package.json132896495443098041 0
 114C:\Users\AMON\SPRINT_3\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased-file\package.json132900345483352579 0
 75C:\Users\AMON\SPRINT_3\node_modules\htmlnano\lib\modules\removeUnusedCss.js132900345370544386 0
-40C:\Users\AMON\SPRINT_3\dist\addtune.html132921557282031682 0
+40C:\Users\AMON\SPRINT_3\dist\addtune.html132924370185009691 0
 83C:\Users\AMON\SPRINT_3\node_modules\htmlnano\lib\modules\sortAttributesWithLists.js132900345377475544 0
 54C:\Users\AMON\SPRINT_3\node_modules\htmlnano\docs\docs132900345465499018 1
 67C:\Users\AMON\SPRINT_3\node_modules\htmlnano\docs\package-lock.json132900345414976112 0
@@ -6346,10 +6368,6 @@
 86C:\Users\AMON\SPRINT_3\node_modules\@parcel\reporter-dev-server\src\templates\500.html132900345271497686 0
 78C:\Users\AMON\SPRINT_3\node_modules\firebase\remote-config\dist\compat\storage132896495736951758 1
 89C:\Users\AMON\SPRINT_3\node_modules\firebase\remote-config\dist\compat\storage\index.d.ts132896495737001599 0
-95C:\Users\AMON\SPRINT_3\node_modules\firebase\remote-config\dist\compat\remote-config\index.d.ts132896495736921857 0
-83C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\loading-lazy-attr.js132900345699591517 0
-77C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\react-native\dist\app-check132896495686974674 1
-72C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\array\virtual\find.js132896495646943073 0
 93C:\Users\AMON\SPRINT_3\node_modules\firebase\remote-config\dist\compat\performance\index.d.ts132896495736861983 0
 76C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\auth\dist\compat\storage132896495694859271 1
 70C:\Users\AMON\SPRINT_3\node_modules\core-js\features\regexp\replace.js132896495578237946 0
@@ -6870,7 +6888,6 @@
 83C:\Users\AMON\SPRINT_3\node_modules\firebase\firestore\dist\auth\cordova\index.d.ts132896495722003059 0
 80C:\Users\AMON\SPRINT_3\node_modules\firebase\firestore\dist\analytics\index.d.ts132896495721880954 0
 68C:\Users\AMON\SPRINT_3\node_modules\firebase\database\dist\analytics132896495720494934 1
-68C:\Users\AMON\SPRINT_3\node_modules\firebase\database\dist\app-check132896495720534495 1
 112C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\src\local\lru_garbage_collector.d.ts132896495693514098 0
 78C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\auth\dist\compat\functions132896495694590006 1
 65C:\Users\AMON\SPRINT_3\node_modules\firebase\database\dist\compat132896495745503400 1
@@ -6976,7 +6993,6 @@
 63C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\performance132896495561618922 1
 71C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\rn\index.js.map132896495550707972 0
 65C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\remote-config132896495561658828 1
-68C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\storage\dist\app132896495717642735 1
 64C:\Users\AMON\SPRINT_3\node_modules\@parcel\utils\src\urlJoin.js132900345469797088 0
 69C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\storage\dist\auth132896495718049346 1
 84C:\Users\AMON\SPRINT_3\node_modules\core-js\proposals\efficient-64-bit-arithmetic.js132896495634282114 0
@@ -7203,7 +7219,7 @@
 87C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\messaging\dist\compat\index.rn.d.ts132896495745293952 0
 63C:\Users\AMON\SPRINT_3\node_modules\@protobufjs\utf8\index.d.ts132896495448271958 0
 87C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\messaging\dist\compat\remote-config132896495712813037 1
-39C:\Users\AMON\SPRINT_3\dist\listen.html132923449562135158 0
+39C:\Users\AMON\SPRINT_3\dist\listen.html132924370154337883 0
 96C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\messaging\dist\compat\performance\index.d.ts132896495712788156 0
 94C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\messaging\dist\compat\functions\index.d.ts132896495712652928 0
 70C:\Users\AMON\SPRINT_3\node_modules\core-js\es\typed-array\subarray.js132896495558715301 0
@@ -7302,8 +7318,6 @@
 75C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\firestore\dist\database132896495700343334 1
 76C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\firestore\dist\firestore132896495700413176 1
 82C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\cordova\dist\database\index.d.ts132896495684604158 0
-76C:\Users\AMON\SPRINT_3\node_modules\@firebase\storage\dist\index.node.cjs.js132896495475863744 0
-79C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\firestore\dist\index.cjs.js132896495555127637 0
 98C:\Users\AMON\SPRINT_3\node_modules\@firebase\installations\dist\src\helpers\idb-manager.test.d.ts132896495533177066 0
 80C:\Users\AMON\SPRINT_3\node_modules\@firebase\storage\dist\index.node.cjs.js.map132896495486679600 0
 52C:\Users\AMON\SPRINT_3\node_modules\@parcel\core\lib132900345575285863 1
@@ -7366,8 +7380,8 @@
 77C:\Users\AMON\SPRINT_3\node_modules\@firebase\storage\dist\src\reference.d.ts132896495533835088 0
 104C:\Users\AMON\SPRINT_3\node_modules\@firebase\storage-compat\dist\test\integration\integration.test.d.ts132896495475414944 0
 65C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\dist\database132896495698343043 1
-87C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\compat\index.rn.d.ts132896495744865108 0
 66C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\dist\firestore132896495698462734 1
+87C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\compat\index.rn.d.ts132896495744865108 0
 80C:\Users\AMON\SPRINT_3\node_modules\@parcel\runtime-js\src\helpers\bundle-url.js132900345271457758 0
 52C:\Users\AMON\SPRINT_3\node_modules\cssesc\README.md132900345040181007 0
 75C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\dist\index.node.cjs.map132896495648653677 0
@@ -7451,7 +7465,6 @@
 82C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\database\dist\index.esm.js.map132896495646215022 0
 66C:\Users\AMON\SPRINT_3\node_modules\core-js\features\array\virtual132896495562496600 1
 79C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\database\dist\index.mjs.map132896495646963035 0
-79C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\database\dist\remote-config132896495696400588 1
 84C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\database\dist\storage\index.d.ts132896495696440786 0
 73C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\dist\app\index.cdn.d.ts132896495654615235 0
 91C:\Users\AMON\SPRINT_3\node_modules\@firebase\database-compat\dist\database-compat\src\util132896495545160420 1
@@ -7563,8 +7576,6 @@
 83C:\Users\AMON\SPRINT_3\node_modules\@parcel\watcher\src\shared\BruteForceBackend.hh132900345353315127 0
 79C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\app-check\dist\messaging\sw132896495691226917 1
 88C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\react-native\dist\analytics\index.d.ts132896495686944734 0
-66C:\Users\AMON\SPRINT_3\node_modules\core-js\es\regexp\to-string.js132896495531748016 0
-90C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\app-check\dist\messaging\sw\index.d.ts132896495691266221 0
 116C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\packages\firestore\src\local\encoded_resource_path.d.ts132896495652192855 0
 61C:\Users\AMON\SPRINT_3\node_modules\@parcel\namer-default\lib132900345213769025 1
 87C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\app-check\dist\functions\index.d.ts132896495691167063 0
@@ -7687,10 +7698,17 @@
 65C:\Users\AMON\SPRINT_3\node_modules\core-js\features\array\map.js132896495561130227 0
 86C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\rn\src\core\util\event_id.d.ts132896495622565016 0
 89C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\compat\index.perf.d.ts132896495743085260 0
+72C:\Users\AMON\SPRINT_3\node_modules\@firebase\messaging-compat\README.md132896495476153102 0
+85C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\compat\performance132896495688868720 1
+97C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\esm2017\src\core\strategies\idp.test.d.ts132896495659617487 0
+87C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\compat\remote-config132896495688908617 1
+89C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\registerprotocolhandler.js132900345736121094 0
 77C:\Users\AMON\SPRINT_3\node_modules\@parcel\reporter-dev-server\src\Server.js132900345290510918 0
 81C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\compat\storage132896495688968457 1
 64C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\array\keys.js132896495646544139 0
 90C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\mediacapture-fromelement.js132900345703840138 0
+78C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\array\virtual\find-index.js132896495646923119 0
+98C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\compat\remote-config\index.d.ts132896495688948800 0
 94C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\compat\messaging\index.d.ts132896495688848797 0
 49C:\Users\AMON\SPRINT_3\node_modules\@parcel\graph132900345330012510 1
 94C:\Users\AMON\SPRINT_3\node_modules\firebase\compat\analytics\dist\compat\firestore\index.d.ts132896495688731045 0
@@ -7897,7 +7915,6 @@
 88C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\cordova\dist\compat\storage\index.d.ts132896495684564318 0
 47C:\Users\AMON\SPRINT_3\node_modules\cssnano\src132900345089050314 1
 94C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\cordova\dist\compat\remote-config\index.d.ts132896495684526349 0
-63C:\Users\AMON\SPRINT_3\node_modules\@parcel\runtime-browser-hmr132900345293984887 1
 90C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\cordova\dist\compat\messaging\index.d.ts132896495683942422 0
 89C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\cordova\dist\compat\database\index.d.ts132896495683722627 0
 85C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\cordova\dist\compat\auth\index.d.ts132896495683672744 0
@@ -7907,8 +7924,6 @@
 88C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\cordova\dist\compat\app\index.cdn.d.ts132896495654535819 0
 84C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\cordova\dist\compat\app\index.d.ts132896495683622957 0
 90C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\cordova\dist\compat\analytics\index.d.ts132896495683513181 0
-88C:\Users\AMON\SPRINT_3\node_modules\@firebase\messaging\dist\src\internals\requests.d.ts132896495542124481 0
-50C:\Users\AMON\SPRINT_3\node_modules\@parcel\plugin132900345220058927 1
 78C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\cordova\dist\auth\index.d.ts132896495683403507 0
 76C:\Users\AMON\SPRINT_3\node_modules\core-js\internals\get-iterator-method.js132896495591515608 0
 91C:\Users\AMON\SPRINT_3\node_modules\firebase\auth\cordova\dist\auth\react-native\index.d.ts132896495683453346 0
@@ -8695,6 +8710,7 @@
 68C:\Users\AMON\SPRINT_3\node_modules\cosmiconfig\dist\cacheWrapper.js132900345077448474 0
 72C:\Users\AMON\SPRINT_3\node_modules\cosmiconfig\dist\cacheWrapper.js.map132900345294174073 0
 64C:\Users\AMON\SPRINT_3\node_modules\cosmiconfig\dist\Explorer.js132900345086638729 0
+52C:\Users\AMON\SPRINT_3\dist\mysongs.ecc12e06.css.map132924370154337883 0
 101C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\packages\firestore\src\api\database.d.ts132896495624815674 0
 70C:\Users\AMON\SPRINT_3\node_modules\cosmiconfig\dist\ExplorerBase.d.ts132900345377625140 0
 70C:\Users\AMON\SPRINT_3\node_modules\core-js\internals\collection-of.js132896495590621728 0
@@ -8767,6 +8783,7 @@
 71C:\Users\AMON\SPRINT_3\node_modules\@protobufjs\eventemitter\index.d.ts132896495446414594 0
 54C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\set132896495658500476 1
 67C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\set-immediate.js132896495658430669 0
+50C:\Users\AMON\SPRINT_3\dist\listen.e73d896c.js.map132923531879504835 0
 75C:\Users\AMON\SPRINT_3\node_modules\@parcel\node-resolver-core\test\fixture132900345485576621 1
 66C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\set-interval.js132896495658450569 0
 65C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\set-timeout.js132896495658470591 0
@@ -9007,7 +9024,7 @@
 89C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\css-hanging-punctuation.js132900345550415043 0
 71C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\esm2017\src\api132896495686080624 1
 70C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\instance\reverse.js132896495653594094 0
-61C:\Users\AMON\SPRINT_3\dist\SoundNow-logos_black.3d2c8663.png132921528965388421 0
+61C:\Users\AMON\SPRINT_3\dist\SoundNow-logos_black.3d2c8663.png132924370149893853 0
 45C:\Users\AMON\SPRINT_3\node_modules\acorn\bin132900345028384961 1
 68C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\instance\slice.js132896495653604052 0
 106C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\src\core\firestore_client.d.ts132896495661438974 0
@@ -9048,7 +9065,6 @@
 110C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\src\core\sync_engine.d.ts132896495736822173 0
 58C:\Users\AMON\SPRINT_3\node_modules\core-js\es\array\of.js132896495463942450 0
 68C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\array\is-array.js132896495646494265 0
-63C:\Users\AMON\SPRINT_3\node_modules\@parcel\reporter-dev-server132900345364572006 1
 68C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\array\iterator.js132896495646514221 0
 80C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\css-snappoints.js132900345650704127 0
 64C:\Users\AMON\SPRINT_3\node_modules\core-js\stable\array\join.js132896495646534189 0
@@ -9143,8 +9159,8 @@
 91C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\rn\src\core\util\emulator.test.d.ts132896495614090036 0
 68C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\es.array.from.js132896495598777282 0
 72C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\es.array.includes.js132896495598807871 0
-72C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\es.array.index-of.js132896495598828137 0
 56C:\Users\AMON\SPRINT_3\node_modules\@parcel\packager-raw132900345243302823 1
+72C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\es.array.index-of.js132896495598828137 0
 72C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\es.array.is-array.js132896495598837765 0
 84C:\Users\AMON\SPRINT_3\node_modules\@firebase\analytics-compat\dist\esm\package.json132896495496991177 0
 87C:\Users\AMON\SPRINT_3\node_modules\@firebase\storage\dist\src\implementation\list.d.ts132896495526703500 0
@@ -9341,7 +9357,6 @@
 115C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\test\integration\api\database.test.d.ts132896495625526623 0
 75C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\esnext.iterator.find.js132896495616296976 0
 74C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\esnext.iterator.map.js132896495616546473 0
-75C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\esnext.iterator.some.js132896495616666141 0
 97C:\Users\AMON\SPRINT_3\node_modules\@firebase\performance\dist\src\resources\network_request.d.ts132896495501141017 0
 70C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\esnext.set.find.js132896495622784424 0
 95C:\Users\AMON\SPRINT_3\node_modules\@firebase\performance\dist\src\utils\metric_utils.test.d.ts132896495496901788 0
@@ -9356,6 +9371,8 @@
 78C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\currentcolor.js132900345652309527 0
 74C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\esnext.map.map-keys.js132896495618582385 0
 68C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\esnext.map.of.js132896495619013619 0
+72C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\esnext.map.reduce.js132896495619063497 0
+66C:\Users\AMON\SPRINT_3\node_modules\core-js\features\array\join.js132896495560970683 0
 63C:\Users\AMON\SPRINT_3\node_modules\@firebase\database\dist\src132896495572007690 1
 70C:\Users\AMON\SPRINT_3\node_modules\core-js\modules\esnext.map.some.js132896495619113369 0
 75C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\objectrtc.js132900345713861398 0
@@ -9558,8 +9575,8 @@
 65C:\Users\AMON\SPRINT_3\node_modules\core-js\internals\to-index.js132896495597405555 0
 114C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node-esm\src\platform_browser\messagechannel\receiver.d.ts132896495732941371 0
 74C:\Users\AMON\SPRINT_3\node_modules\core-js\internals\to-indexed-object.js132896495597415523 0
-67C:\Users\AMON\SPRINT_3\node_modules\core-js\internals\to-integer.js132896495597425480 0
 60C:\Users\AMON\SPRINT_3\node_modules\@parcel\optimizer-terser132900345243352664 1
+67C:\Users\AMON\SPRINT_3\node_modules\core-js\internals\to-integer.js132896495597425480 0
 66C:\Users\AMON\SPRINT_3\node_modules\core-js\internals\to-length.js132896495597445453 0
 66C:\Users\AMON\SPRINT_3\node_modules\core-js\internals\to-object.js132896495597455414 0
 84C:\Users\AMON\SPRINT_3\node_modules\@firebase\storage\dist\node-esm\test\integration132896495525307909 1
@@ -9853,6 +9870,9 @@
 82C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\css-unicode-bidi.js132900345651541576 0
 64C:\Users\AMON\SPRINT_3\node_modules\core-js\features\map\some.js132896495572576176 0
 76C:\Users\AMON\SPRINT_3\node_modules\core-js\features\map\update-or-insert.js132896495572596111 0
+109C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\firestore\test\unit\local\test_target_cache.d.ts132896495742516771 0
+115C:\Users\AMON\SPRINT_3\node_modules\@grpc\grpc-js\build\src\generated\grpc\channelz\v1\GetServerSocketsRequest.d.ts132896495561977985 0
+66C:\Users\AMON\SPRINT_3\node_modules\core-js\features\map\update.js132896495572626049 0
 123C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\src\platform\browser_lite\fetch_connection.d.ts132896495655373241 0
 74C:\Users\AMON\SPRINT_3\node_modules\core-js\features\json\to-string-tag.js132896495572017663 0
 81C:\Users\AMON\SPRINT_3\node_modules\core-js\features\iterator\as-indexed-pairs.js132896495570900652 0
@@ -9875,6 +9895,7 @@
 77C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\features\font-smooth.js132900345670361347 0
 90C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\src\core\action_code_url.test.d.ts132896495570162145 0
 74C:\Users\AMON\SPRINT_3\node_modules\core-js\features\instance\ends-with.js132896495567693255 0
+47C:\Users\AMON\SPRINT_3\dist\listen.1b1aba7e.css132923531876924918 0
 71C:\Users\AMON\SPRINT_3\node_modules\core-js\features\instance\filter.js132896495568425288 0
 81C:\Users\AMON\SPRINT_3\node_modules\@parcel\packager-js\src\GlobalOutputFormat.js132900345304497804 0
 69C:\Users\AMON\SPRINT_3\node_modules\core-js\features\instance\find.js132896495568565052 0
@@ -9913,9 +9934,9 @@
 78C:\Users\AMON\SPRINT_3\node_modules\core-js\features\function\virtual\index.js132896495565444492 0
 80C:\Users\AMON\SPRINT_3\node_modules\core-js\features\dom-collections\for-each.js132896495565005708 0
 64C:\Users\AMON\SPRINT_3\node_modules\core-js\features\date\now.js132896495564267908 0
+57C:\Users\AMON\SPRINT_3\node_modules\@parcel\packager-html132900345246860095 1
 68C:\Users\AMON\SPRINT_3\node_modules\core-js\features\date\to-json.js132896495564743052 0
 67C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\regions\UG.js132900345752455624 0
-57C:\Users\AMON\SPRINT_3\node_modules\@parcel\packager-html132900345246860095 1
 73C:\Users\AMON\SPRINT_3\node_modules\core-js\features\date\to-primitive.js132896495564876020 0
 51C:\Users\AMON\SPRINT_3\node_modules\.bin\parcel.ps1132900345772037357 0
 77C:\Users\AMON\SPRINT_3\node_modules\core-js\features\async-iterator\filter.js132896495562795780 0
@@ -10221,8 +10242,8 @@
 106C:\Users\AMON\SPRINT_3\node_modules\@firebase\installations\dist\esm\src\interfaces\installation-impl.d.ts132896495534224119 0
 60C:\Users\AMON\SPRINT_3\node_modules\core-js\es\array\sort.js132896495464490977 0
 66C:\Users\AMON\SPRINT_3\node_modules\@firebase\database-compat\dist132896495523556070 1
-62C:\Users\AMON\SPRINT_3\node_modules\core-js\es\array\values.js132896495464753348 0
 60C:\Users\AMON\SPRINT_3\node_modules\@parcel\resolver-default132900345243292833 1
+62C:\Users\AMON\SPRINT_3\node_modules\core-js\es\array\values.js132896495464753348 0
 60C:\Users\AMON\SPRINT_3\node_modules\core-js\es\array\virtual132896495468287113 1
 70C:\Users\AMON\SPRINT_3\node_modules\core-js\es\array\virtual\concat.js132896495464982727 0
 75C:\Users\AMON\SPRINT_3\node_modules\core-js\es\array\virtual\copy-within.js132896495465032615 0
@@ -10499,8 +10520,8 @@
 67C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\regions\PW.js132900345734864480 0
 97C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\src\lite-api132896495751197375 1
 104C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\packages\firestore\src\util\sorted_set.d.ts132896495732931366 0
-67C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\regions\QA.js132900345735064015 0
 55C:\Users\AMON\SPRINT_3\node_modules\@parcel\packager-js132900345361371678 1
+67C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\regions\QA.js132900345735064015 0
 92C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\src\api\authentication\mfa.test.d.ts132896495699954391 0
 67C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\regions\RO.js132900345736968827 0
 67C:\Users\AMON\SPRINT_3\node_modules\caniuse-lite\data\regions\RS.js132900345737268493 0
@@ -11103,7 +11124,6 @@
 73C:\Users\AMON\SPRINT_3\node_modules\@protobufjs\eventemitter\package.json132896495441906602 0
 98C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore-compat\dist\src\util\input_validation.d.ts132896495525148328 0
 63C:\Users\AMON\SPRINT_3\node_modules\@protobufjs\codegen\LICENSE132896495445427498 0
-68C:\Users\AMON\SPRINT_3\node_modules\@protobufjs\codegen\package.json132896495441916571 0
 70C:\Users\AMON\SPRINT_3\node_modules\@protobufjs\codegen\tests\index.js132896495449004021 0
 103C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\rn\src\core\user\user_credential_impl.test.d.ts132896495752778147 0
 65C:\Users\AMON\SPRINT_3\node_modules\@protobufjs\base64\index.d.ts132896495446424583 0
@@ -11119,8 +11139,14 @@
 61C:\Users\AMON\SPRINT_3\node_modules\@parcel\optimizer-cssnano132900345243402453 1
 51C:\Users\AMON\SPRINT_3\node_modules\.bin\semver.ps1132900345772376427 0
 59C:\Users\AMON\SPRINT_3\node_modules\@parcel\package-manager132900345458773906 1
+95C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\packages\firestore\test\unit\local132896495750621952 1
+56C:\Users\AMON\SPRINT_3\node_modules\@parcel\packager-css132900345246860095 1
 56C:\Users\AMON\SPRINT_3\node_modules\@parcel\packager-svg132900345243342604 1
+88C:\Users\AMON\SPRINT_3\node_modules\@firebase\messaging\dist\src\internals\requests.d.ts132896495542124481 0
+50C:\Users\AMON\SPRINT_3\node_modules\@parcel\plugin132900345220058927 1
 56C:\Users\AMON\SPRINT_3\node_modules\@parcel\reporter-cli132900345324587706 1
+63C:\Users\AMON\SPRINT_3\node_modules\@parcel\reporter-dev-server132900345364572006 1
+63C:\Users\AMON\SPRINT_3\node_modules\@parcel\runtime-browser-hmr132900345293984887 1
 54C:\Users\AMON\SPRINT_3\node_modules\@parcel\runtime-js132900345407959061 1
 65C:\Users\AMON\SPRINT_3\node_modules\@parcel\runtime-react-refresh132900345243302823 1
 79C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\esm5\src\api\index.d.ts132896495680523777 0
@@ -11572,6 +11598,7 @@
 67C:\Users\AMON\SPRINT_3\node_modules\@parcel\plugin\src\PluginAPI.js132900345211415225 0
 69C:\Users\AMON\SPRINT_3\node_modules\@parcel\packager-svg\package.json132900345246279085 0
 60C:\Users\AMON\SPRINT_3\node_modules\@parcel\packager-raw\lib132900345213459421 1
+51C:\Users\AMON\SPRINT_3\dist\sign in.03df5085.js.map132924153341325279 0
 69C:\Users\AMON\SPRINT_3\node_modules\@parcel\packager-raw\package.json132900345245716280 0
 95C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\firestore\test\unit\bootstrap.d.ts132896495600565601 0
 60C:\Users\AMON\SPRINT_3\node_modules\@parcel\packager-raw\src132900345225494891 1
@@ -12044,6 +12071,7 @@
 83C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\cordova\internal\index.d.ts132896495679466596 0
 77C:\Users\AMON\SPRINT_3\node_modules\@parcel\core\lib\requests\EntryRequest.js132900345463444095 0
 83C:\Users\AMON\SPRINT_3\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js132900345486683653 0
+47C:\Users\AMON\SPRINT_3\dist\music.f2e193a9.jfif132924370138688005 0
 88C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\src\platform_browser\persistence132896495745234127 1
 84C:\Users\AMON\SPRINT_3\node_modules\@parcel\core\lib\requests\ParcelConfigRequest.js132900345491519481 0
 78C:\Users\AMON\SPRINT_3\node_modules\@parcel\core\lib\requests\TargetRequest.js132900345527889740 0
@@ -12219,7 +12247,6 @@
 82C:\Users\AMON\SPRINT_3\node_modules\@grpc\grpc-js\build\src\channel-credentials.js132896495463314148 0
 99C:\Users\AMON\SPRINT_3\node_modules\@firebase\storage-compat\dist\esm\test\unit\reference.test.d.ts132896495476412314 0
 70C:\Users\AMON\SPRINT_3\node_modules\@grpc\grpc-js\build\src\channel.js132896495463683152 0
-73C:\Users\AMON\SPRINT_3\node_modules\@grpc\grpc-js\build\src\channelz.d.ts132896495558695357 0
 88C:\Users\AMON\SPRINT_3\node_modules\@firebase\database\dist\src\realtime\Connection.d.ts132896495558705314 0
 75C:\Users\AMON\SPRINT_3\node_modules\@grpc\grpc-js\build\src\channelz.js.map132896495505728712 0
 86C:\Users\AMON\SPRINT_3\node_modules\@grpc\grpc-js\build\src\client-interceptors.js.map132896495508484768 0
@@ -12559,6 +12586,7 @@
 91C:\Users\AMON\SPRINT_3\node_modules\@firebase\storage-compat\dist\esm\src\tasksnapshot.d.ts132896495479715997 0
 66C:\Users\AMON\SPRINT_3\node_modules\@firebase\storage\CHANGELOG.md132896495490433110 0
 66C:\Users\AMON\SPRINT_3\node_modules\@firebase\storage\package.json132896495478873066 0
+51C:\Users\AMON\SPRINT_3\dist\sign in.359937bd.js.map132924370185448553 0
 79C:\Users\AMON\SPRINT_3\node_modules\@firebase\storage\dist\index.browser.cjs.js132896495469719170 0
 83C:\Users\AMON\SPRINT_3\node_modules\@firebase\storage\dist\index.browser.cjs.js.map132896495480184689 0
 79C:\Users\AMON\SPRINT_3\node_modules\@firebase\storage\dist\index.esm2017.js.map132896495482515579 0
@@ -13136,6 +13164,7 @@
 72C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\esm2017\internal132896495680084930 1
 106C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\src\api\snapshot.d.ts132896495732092610 0
 101C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore-compat\dist\test\numeric_transforms.test.d.ts132896495525755181 0
+48C:\Users\AMON\SPRINT_3\dist\mysongs.ecc12e06.css132924370154337883 0
 87C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore-compat\dist\test\type.test.d.ts132896495533408536 0
 101C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore-compat\dist\test\util\events_accumulator.d.ts132896495518239957 0
 91C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore-compat\dist\test\util\settings.d.ts132896495528927798 0
@@ -13150,6 +13179,7 @@
 90C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore-compat\dist\src\api\timestamp.d.ts132896495532758213 0
 98C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore-compat\dist\node-esm\index.node.esm.js.map132896495492688624 0
 80C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore-compat\dist\node-esm\src132896495526853122 1
+51C:\Users\AMON\SPRINT_3\dist\sign up.d680613f.js.map132924354463509791 0
 112C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\firestore\test\integration\api\validation.test.d.ts132896495748632560 0
 81C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore-compat\dist\node-esm\test132896495533488302 1
 104C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore-compat\dist\node-esm\test\batch_writes.test.d.ts132896495501161007 0
@@ -13454,6 +13484,7 @@
 88C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\src132896495748503046 1
 89C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\test132896495721132205 1
 94C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\test\lite132896495688011075 1
+94C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\test\util132896495741745984 1
 111C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\test\util\api_helpers.d.ts132896495596693678 0
 116C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\test\util\equality_matcher.d.ts132896495653195524 0
 116C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\test\util\node_persistence.d.ts132896495697485352 0
@@ -13476,7 +13507,7 @@
 68C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\src\api132896495686199904 1
 120C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\test\unit\util\sorted_set.test.d.ts132896495733041052 0
 126C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\test\unit\specs\collection_spec.test.d.ts132896495615679321 0
-47C:\Users\AMON\SPRINT_3\dist\sign up.23b98fed.js132921575726912101 0
+47C:\Users\AMON\SPRINT_3\dist\sign up.23b98fed.js132924120089150322 0
 119C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\test\unit\specs\describe_spec.d.ts132896495627431961 0
 132C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\test\unit\specs\existence_filter_spec.test.d.ts132896495655014186 0
 121C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\test\unit\specs\limbo_spec.test.d.ts132896495688948800 0
@@ -13643,7 +13674,6 @@
 112C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\src\model\object_value.d.ts132896495699665152 0
 104C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\src\model\path.d.ts132896495704838074 0
 120C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\src\model\target_index_matcher.d.ts132896495739951441 0
-110C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\src\model\type_order.d.ts132896495745214300 0
 106C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\src\model\values.d.ts132896495748865161 0
 122C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\src\local\document_overlay_cache.d.ts132896495634102575 0
 121C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\packages\firestore\src\local\encoded_resource_path.d.ts132896495648813206 0
@@ -13811,7 +13841,6 @@
 96C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\src\util\assert.d.ts132896495597535627 0
 104C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\src\util\async_observer.d.ts132896495597686869 0
 103C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\src\util\bundle_reader.d.ts132896495601902025 0
-101C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\src\util\byte_stream.d.ts132896495611292529 0
 94C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\src\util\misc.d.ts132896495695298096 0
 109C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\firestore\test\unit\model\document_set.test.d.ts132896495644570580 0
 98C:\Users\AMON\SPRINT_3\node_modules\@firebase\firestore\dist\lite\firestore\src\util\node_api.d.ts132896495696320777 0
@@ -14618,7 +14647,7 @@
 94C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\rn\src\platform_browser\auth.test.d.ts132896495585684067 0
 90C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\rn\src\platform_browser\index.d.ts132896495683812452 0
 97C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\rn\src\platform_browser\load_js.test.d.ts132896495692880245 0
-46C:\Users\AMON\SPRINT_3\dist\index.2cdaf7bc.css132921528965338559 0
+46C:\Users\AMON\SPRINT_3\dist\index.2cdaf7bc.css132924178014088917 0
 83C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\rn\src\platform_browser\mfa132896495714266667 1
 91C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\rn\src\platform_browser\persistence132896495745194259 1
 99C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\rn\src\platform_browser\popup_redirect.d.ts132896495720504542 0
@@ -14757,7 +14786,6 @@
 107C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node-esm\test\integration\flows\anonymous.test.d.ts132896495572995065 0
 103C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node-esm\test\integration\flows\email.test.d.ts132896495603045599 0
 107C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node-esm\test\integration\flows\oob.local.test.d.ts132896495712184184 0
-81C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node-esm\test\helpers\api132896495654116588 1
 88C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node-esm\test\helpers\delay.d.ts132896495592409331 0
 102C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node-esm\test\helpers\fake_service_worker.d.ts132896495624414036 0
 95C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node-esm\test\helpers\iframe_event.d.ts132896495661568667 0
@@ -14924,7 +14952,7 @@
 99C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\src\platform_browser\load_js.test.d.ts132896495692850343 0
 93C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\src\platform_browser\persistence132896495745134398 1
 106C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\src\platform_browser\popup_redirect.test.d.ts132896495721172114 0
-45C:\Users\AMON\SPRINT_3\dist\selectartist.html132923449562125164 0
+45C:\Users\AMON\SPRINT_3\dist\selectartist.html132924370154337883 0
 92C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\src\platform_browser\strategies132896495737221059 1
 108C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\src\platform_browser\strategies\popup.test.d.ts132896495722617713 0
 111C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\src\platform_browser\strategies\redirect.test.d.ts132896495737231009 0
@@ -14967,7 +14995,6 @@
 92C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\src\core\util\instantiator.d.ts132896495688302196 0
 89C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\src\core\util\navigator.d.ts132896495704977699 0
 89C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\src\core\util\providers.d.ts132896495724611845 0
-95C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\src\core\util\validate_origin.d.ts132896495754407608 0
 92C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\src\core\user\account_info.d.ts132896495561738603 0
 100C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\src\core\user\additional_user_info.d.ts132896495571000389 0
 105C:\Users\AMON\SPRINT_3\node_modules\@firebase\auth\dist\node\src\core\user\additional_user_info.test.d.ts132896495571598795 0
@@ -15461,6 +15488,7 @@
 87C:\Users\AMON\SPRINT_3\node_modules\@firebase\app-compat\dist\esm\src\public-types.d.ts132896495523326710 0
 97C:\Users\AMON\SPRINT_3\node_modules\@firebase\app-compat\dist\esm\src\registerCoreComponents.d.ts132896495523725606 0
 82C:\Users\AMON\SPRINT_3\node_modules\@firebase\app-check-interop-types\CHANGELOG.md132896495456210147 0
+56C:\Users\AMON\SPRINT_3\dist\selectartist.d680613f.js.map132924370750537911 0
 80C:\Users\AMON\SPRINT_3\node_modules\@firebase\app-check-interop-types\index.d.ts132896495457661414 0
 75C:\Users\AMON\SPRINT_3\node_modules\@firebase\app-check-compat\CHANGELOG.md132896495503684550 0
 67C:\Users\AMON\SPRINT_3\node_modules\@firebase\app-check-compat\dist132896495505648090 1
@@ -15492,6 +15520,7 @@
 80C:\Users\AMON\SPRINT_3\node_modules\@firebase\app-check\dist\esm\src\client.d.ts132896495503261882 0
 85C:\Users\AMON\SPRINT_3\node_modules\@firebase\app-check\dist\esm\src\client.test.d.ts132896495504263025 0
 84C:\Users\AMON\SPRINT_3\node_modules\@firebase\app-check\dist\esm\src\debug.test.d.ts132896495509872925 0
+47C:\Users\AMON\SPRINT_3\dist\sign in.359937bd.js132924370185288977 0
 86C:\Users\AMON\SPRINT_3\node_modules\@firebase\app-check\dist\esm\src\internal-api.d.ts132896495518319716 0
 91C:\Users\AMON\SPRINT_3\node_modules\@firebase\app-check\dist\esm\src\internal-api.test.d.ts132896495519254207 0
 79C:\Users\AMON\SPRINT_3\node_modules\@firebase\app-check\dist\esm\src\state.d.ts132896495524909021 0
@@ -15593,24 +15622,32 @@
 47C:\Users\AMON\SPRINT_3\dist\addtune.f10576d6.js132911257016926593 0
 58C:\Users\AMON\SPRINT_3\dist\addtune.f10576d6.js.4020152317132910791375899967 0
 50C:\Users\AMON\SPRINT_3\dist\index.24fea2b8.css.map132900379369435262 0
-50C:\Users\AMON\SPRINT_3\dist\index.2cdaf7bc.css.map132923513276104042 0
+50C:\Users\AMON\SPRINT_3\dist\index.2cdaf7bc.css.map132924178014710080 0
 49C:\Users\AMON\SPRINT_3\dist\index.975ef6c8.js.map132921524633120040 0
 45C:\Users\AMON\SPRINT_3\dist\index.9cb6d332.js132900379369365060 0
+46C:\Users\AMON\SPRINT_3\dist\listen.e73d896c.js132923531879504835 0
+50C:\Users\AMON\SPRINT_3\dist\listen.fdee0e35.js.map132923533865340331 0
 50C:\Users\AMON\SPRINT_3\dist\listen.html.2414262992132912901227054979 0
 45C:\Users\AMON\SPRINT_3\dist\login.355e69e6.js132900685962634055 0
 49C:\Users\AMON\SPRINT_3\dist\login.355e69e6.js.map132900685962683084 0
 45C:\Users\AMON\SPRINT_3\dist\music.a7b32dc1.js132900685962418571 0
 51C:\Users\AMON\SPRINT_3\dist\mysongs.3daa5191.js.map132911310658503807 0
 48C:\Users\AMON\SPRINT_3\dist\person.81ae6ac1.webp132914578988270114 0
-50C:\Users\AMON\SPRINT_3\dist\person_2.ea310a01.webp132923513269807731 0
+50C:\Users\AMON\SPRINT_3\dist\person_2.ea310a01.webp132924370134338009 0
 52C:\Users\AMON\SPRINT_3\dist\selectartist.f1f849e6.js132911310658254587 0
 56C:\Users\AMON\SPRINT_3\dist\selectartist.html.1298707532132912901227054979 0
 51C:\Users\AMON\SPRINT_3\dist\sign in.02834793.js.map132918952616355959 0
+47C:\Users\AMON\SPRINT_3\dist\sign in.03df5085.js132924153341305327 0
+47C:\Users\AMON\SPRINT_3\dist\sign in.0e018abf.js132924370154337883 0
 51C:\Users\AMON\SPRINT_3\dist\sign in.21bf598f.js.map132911257017832606 0
 51C:\Users\AMON\SPRINT_3\dist\sign in.57bba1e9.js.map132918952599993343 0
-51C:\Users\AMON\SPRINT_3\dist\sign up.23b98fed.js.map132923513278396992 0
+51C:\Users\AMON\SPRINT_3\dist\sign in.dce8c39a.js.map132924370185448553 0
+51C:\Users\AMON\SPRINT_3\dist\sign up.23b98fed.js.map132924120089240129 0
 47C:\Users\AMON\SPRINT_3\dist\sign up.a9109c63.js132911310330309613 0
 51C:\Users\AMON\SPRINT_3\dist\sign up.a9109c63.js.map132911310330395262 0
+47C:\Users\AMON\SPRINT_3\dist\sign up.d680613f.js132924354463396953 0
+48C:\Users\AMON\SPRINT_3\dist\sign up.db4ee5eb.css132924370154337883 0
+52C:\Users\AMON\SPRINT_3\dist\sign up.db4ee5eb.css.map132924370154337883 0
 50C:\Users\AMON\SPRINT_3\dist\sign up.html.789645515132912901227054979 0
 72C:\Users\AMON\SPRINT_3\dist\SoundNow-logos_black.3d2c8663.png.1869786198132912901227054979 0
 52C:\Users\AMON\SPRINT_3\dist\SPRINT_3.59712999.js.map132900355768644150 0

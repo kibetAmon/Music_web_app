@@ -10,6 +10,7 @@
     <script type="module" src="assets/google sign in.js"></script>
     <script type="module" src="assets/twitter login.js"></script>
     <script type="module" src="assets/facebook.js"></script>
+    <script type="module" src="assets/anonymous.js"></script>
     <style>
     
 * {box-sizing: border-box}
@@ -137,6 +138,9 @@ input[type=submit]:hover {
     text-align: center;
   }
 }
+.hide{
+  visibility: hidden;
+}
     </style>
 </head>
 <body class="body">
@@ -188,7 +192,8 @@ input[type=submit]:hover {
             <a href="sign up.html" style="color:white" class="btn">Sign up</a>
           </div>
           <div class="col">
-            <a href="#" style="color:white" class="btn">Forgot password?</a>
+            <a href="#" style="color:white" class="btn" id="anonymous">LOGIN ANONYMOUSLY</a>
+            <a href="#" style="color:white" class="hide" id="logout">LOGOUT</a>
           </div>
         </div>
       </div>

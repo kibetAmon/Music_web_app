@@ -5,11 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>signin</title>
-    <link rel="stylesheet" href="/sign%20up.db4ee5eb.css">
-    <script src="/sign%20up.d680613f.js" defer=""></script>
+    <link rel="stylesheet" href="/selectartist.db4ee5eb.css">
+    <script src="/selectartist.d680613f.js" defer=""></script>
     <script src="/sign%20in.dce8c39a.js" defer=""></script>
     <script src="/sign%20in.0e018abf.js" defer=""></script>
     <script src="/sign%20in.359937bd.js" defer=""></script>
+    <script src="/sign%20in.95ea6b7e.js" defer=""></script>
     <style>
     
 * {box-sizing: border-box}
@@ -137,6 +138,9 @@ input[type=submit]:hover {
     text-align: center;
   }
 }
+.hide{
+  visibility: hidden;
+}
     
 </style>
 </head>
@@ -189,7 +193,8 @@ input[type=submit]:hover {
             <a href="/sign%20up.html" style="color:white" class="btn">Sign up</a>
           </div>
           <div class="col">
-            <a href="#" style="color:white" class="btn">Forgot password?</a>
+            <a href="#" style="color:white" class="btn" id="anonymous">LOGIN ANONYMOUSLY</a>
+            <a href="#" style="color:white" class="hide" id="logout">LOGOUT</a>
           </div>
         </div>
       </div>
