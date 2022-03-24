@@ -542,6 +542,9 @@ const firebaseConfig = {
 const app = _app.initializeApp(firebaseConfig);
 const analytics = _analytics.getAnalytics(app);
 const auth = _auth.getAuth();
+//Getting Elements
+const signUpBtn = document.getElementById('signUpBtn');
+const loginBtn = document.getElementById('loginBtn');
 /* FIRESTORE */ const db = _firestore.getFirestore();
 /* CREATING A USER */ signUpBtn.addEventListener('click', (e)=>{
     var email = document.getElementById('Emailtxt').value;

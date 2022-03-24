@@ -537,30 +537,8 @@ const firebaseConfig = {
 // Initialize Firebase
 const app = _app.initializeApp(firebaseConfig);
 const analytics = _analytics.getAnalytics(app);
-const provider = new _auth.GoogleAuthProvider(app);
-const auth = _auth.getAuth(app);
-google.addEventListener('click', (e)=>{
-    _auth.signInWithPopup(auth, provider).then((result)=>{
-        // This gives you a Google Access Token. You can use it to access the Google API.
-        const credential = _auth.GoogleAuthProvider.credentialFromResult(result);
-        const token = credential.accessToken;
-        // The signed-in user info.
-        const user = result.user;
-        alert(user.displayName);
-    // ...
-    }).catch((error)=>{
-        // Handle Errors here.
-        const errorCode = error.code;
-        const errorMessage = error.message;
-        // The email of the user's account used.
-        const email = error.email;
-        // The AuthCredential type that was used.
-        const credential = _auth.GoogleAuthProvider.credentialFromError(error);
-        // ...
-        alert(errorMessage);
-    });
-});
-/* SIGNING OUT */ google.addEventListener('click', (e)=>{
+const logout = document.getElementById('logout');
+/* SIGNING OUT */ logout.addEventListener('click', (e)=>{
     _auth.signOut(auth).then(()=>{
     // Sign-out successful.
     }).catch((error)=>{

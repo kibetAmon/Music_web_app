@@ -567,6 +567,107 @@ anonymous.addEventListener('click', (e)=>{
         logout.classList.add('hide');
     });
 });
+//FACEBOOK LOGIN
+const provider = new _auth.FacebookAuthProvider();
+facebook.addEventListener('click', (e)=>{
+    _auth.signInWithPopup(auth, provider).then((result)=>{
+        // The signed-in user info.
+        const user = result.user;
+        alert(user.displayName);
+        alert('Sign in successful');
+        // This gives you a Facebook Access Token. You can use it to access the Facebook API.
+        const credential = _auth.FacebookAuthProvider.credentialFromResult(result);
+        const accessToken = credential.accessToken;
+    // ...
+    }).catch((error)=>{
+        // Handle Errors here.
+        const errorCode = error.code;
+        const errorMessage = error.message;
+        // The email of the user's account used.
+        const email = error.email;
+        // The AuthCredential type that was used.
+        const credential = _auth.FacebookAuthProvider.credentialFromError(error);
+    // ...
+    });
+});
+//TWITTER LOGIN
+const twitterprovider = new _auth.TwitterAuthProvider(app);
+const twitterauth = _auth.getAuth(app);
+twitter.addEventListener('click', (e)=>{
+    _auth.signInWithPopup(twitterauth, twitterprovider).then((result)=>{
+        // This gives you a the Twitter OAuth 1.0 Access Token and Secret.
+        // You can use these server side with your app's credentials to access the Twitter API.
+        const credential = _auth.TwitterAuthProvider.credentialFromResult(result);
+        const token = credential.accessToken;
+        const secret = credential.secret;
+        // The signed-in user info.
+        const user = result.user;
+        alert(user.displayName);
+    // ...
+    }).catch((error)=>{
+        // Handle Errors here.
+        const errorCode = error.code;
+        const errorMessage = error.message;
+        // The email of the user's account used.
+        const email = error.email;
+        // The AuthCredential type that was used.
+        const credential = _auth.TwitterAuthProvider.credentialFromError(error);
+    // ...
+    });
+});
+//GOOGLE LOGIN
+const googleprovider = new _auth.GoogleAuthProvider(app);
+const googleauth = _auth.getAuth(app);
+google.addEventListener('click', (e)=>{
+    _auth.signInWithPopup(googleauth, googleprovider).then((result)=>{
+        // This gives you a Google Access Token. You can use it to access the Google API.
+        const credential = _auth.GoogleAuthProvider.credentialFromResult(result);
+        const token = credential.accessToken;
+        // The signed-in user info.
+        const user = result.user;
+        alert(user.displayName);
+    // ...
+    }).catch((error)=>{
+        // Handle Errors here.
+        const errorCode = error.code;
+        const errorMessage = error.message;
+        // The email of the user's account used.
+        const email = error.email;
+        // The AuthCredential type that was used.
+        const credential = _auth.GoogleAuthProvider.credentialFromError(error);
+        // ...
+        alert(errorMessage);
+    });
+    _auth.onAuthStateChanged(auth, (user)=>{
+        if (user) {
+            // User is signed in, see docs for a list of available properties
+            // https://firebase.google.com/docs/reference/js/firebase.User
+            const uid = user.uid;
+            console.log(user);
+            logout.classList.remove('hide');
+        } else // User is signed out
+        logout.classList.add('hide');
+    });
+});
+//CREATING A USER
+const signUpBtn = document.getElementById('signUpBtn');
+const loginBtn = document.getElementById('loginBtn');
+signUpBtn.addEventListener('click', (e)=>{
+    var email = document.getElementById('Emailtxt').value;
+    var password = document.getElementById('passwordtxt').value;
+    _auth.createUserWithEmailAndPassword(auth, email, password).then((userCredential)=>{
+        // Signed in 
+        const user = userCredential.user;
+        /* Saving user details
+    ---TO DO
+  */ alert('Sign up successful');
+    }).catch((error)=>{
+        const errorCode = error.code;
+        const errorMessage = error.message;
+        alert(errorMessage);
+    // ..
+    });
+});
 //logout event listener
 logout.addEventListener('click', (e)=>{
     _auth.signOut(auth).then(()=>{

@@ -111,7 +111,6 @@ p{
 .navigation-bar > a {
   display: inline-block;
   vertical-align: top;
-  margin-right: 20px;
   height: 80px;        /* if you want it to take the full height of the bar */
   line-height: 80px;    /* if you want it vertically middle of the navbar */
   width: 14%;
@@ -129,7 +128,7 @@ p{
 @media screen and (max-width: 500px) {
   .navbar a {
     float: none;
-    display: block;
+    display: inline-block;
     width: 100%;
     text-align: left; /* If you want the text to be left-aligned on small screens */
   }
@@ -158,3 +157,7 @@ p{
   font-size: larger;
 }
 
+/* LogOut button*/
+.hide{
+  visibility: hidden;
+}

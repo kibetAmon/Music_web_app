@@ -32,6 +32,11 @@
  const analytics = getAnalytics(app);
 
  const auth = getAuth();
+ 
+ //Getting Elements
+ const signUpBtn = document.getElementById('signUpBtn');
+const loginBtn = document.getElementById('loginBtn');
+
 
  /* FIRESTORE */
  const db = getFirestore();
